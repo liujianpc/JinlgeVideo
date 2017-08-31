@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:background="@color/mycolor"
+        >
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="请选择播放源："
+            android:textSize="20sp"/>
+
+    <RadioGroup
+            android:id="@+id/radioGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="播放源"
+            android:layout_gravity="center"
+            android:gravity="center"
+            >
+
+        <RadioButton
+                android:id="@+id/radio1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="播放源1">
+
+        </RadioButton>
+
+        <RadioButton
+                android:id="@+id/radio2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="播放源2">
+        </RadioButton>
+
+        <RadioButton
+                android:id="@+id/radio3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="播放源3">
+        </RadioButton>
+
+        <RadioButton
+                android:id="@+id/radio4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="播放源4">
+        </RadioButton>
+
+        <RadioButton
+                android:id="@+id/radio5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="播放源5">
+        </RadioButton>
+
+        <RadioButton
+                android:id="@+id/radio6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="播放源6">
+        </RadioButton>
+    </RadioGroup>
+
+</LinearLayout>

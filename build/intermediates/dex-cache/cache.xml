@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\EclipseWorkSpace\JingleVideo\libs\jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
+        <dex dex="E:\EclipseWorkSpace\JingleVideo\build\intermediates\pre-dexed\debug\jsoup-1.10.2_866dbbfda7c1b5a53066804d81749bd52d5f9152.jar" />
+    </item>
+
+</items>

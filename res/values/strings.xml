@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">坚果播霸</string>
+    <string name="title_content">坚果播霸</string>
+    <string name="left">返回</string>
+    <string name="right">帮助</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_about">坚果播霸</string>
+    <string name="author">【版权】：Powered by Jingle.\n</string>
+    <string name="intro">【帮助】：1、磁力链接：可以开车，点击列表项可直接打开浏览器播放，长按列表项自动复制对应磁力链接到剪切板，粘贴到迅雷云播可直接播放，或者用迅雷等下载器新建任务下载。\n
+        2、爱奇艺、优酷、乐视，芒果：点击即可去浏览器播放。因为是私用破解的API，如果不能正常播放，请在软件的右上角切换播放源播放。只有视频网站资源切换播放源有效果，磁力链接切换播放源不能播放。\n
+    </string>
+    <string name="warn">【警告】：开车危险，小心驾驶！请勿飙车！</string>
+    <string name="feedback">【反馈建议】：ljlovelife@foxmail.com</string>
+    <string name="hint">输入影视剧名或演员(老师)等关键词</string>
+    <string name="about_menu">帮助与关于</string>
+    <string name="exit_menu">退出程序</string>
+    <string name="title_activity_link_list_activity">坚果播霸</string>
+    <string name="blank"></string>
+    <string name="title_activity_option">坚果播霸</string>
+    <string name="alipay">支付宝赞助</string>
+    <string name="thank">你的赞赏，是我开发的动力。</string>
+    <string name="wechat">微信赞助</string>
+    <string name="go">发车</string>
+
+</resources>

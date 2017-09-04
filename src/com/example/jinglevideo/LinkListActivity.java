@@ -56,7 +56,7 @@ public class LinkListActivity extends BaseActivity {
 	String title, url;
 	ProgressDialog progressDialog;
 
-	// handler����
+	// handler
 	@SuppressLint("HandlerLeak")
 	Handler handler = new Handler() {
 
@@ -507,7 +507,7 @@ public class LinkListActivity extends BaseActivity {
                         playLink = "http://aikan-tv.com/?url=";
                         break;
                     case R.id.radio3:
-                        playLink = "https://jxapi.nepian.com/ckparse/?url=";
+                        playLink = "http://jx.10087.tv/?url";
                         break;
                     case R.id.radio4:
                         playLink = "http://www.ou522.cn/t2/1.php?url=";

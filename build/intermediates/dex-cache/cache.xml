@@ -2,13 +2,31 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="E:\EclipseWorkSpace\JingleVideo\libs\jsoup-1.10.2.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\XP-PC-XXX\StudioProjects\JinlgeVideo\libs\jsoup-1.10.2.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
-        <dex dex="E:\EclipseWorkSpace\JingleVideo\build\intermediates\pre-dexed\debug\jsoup-1.10.2_866dbbfda7c1b5a53066804d81749bd52d5f9152.jar" />
+        <dex dex="C:\Users\XP-PC-XXX\StudioProjects\JinlgeVideo\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.10.2_e179b1e71ef5b1b6d6c8f3f427407a66566c3d38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\XP-PC-XXX\StudioProjects\JinlgeVideo\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\XP-PC-XXX\StudioProjects\JinlgeVideo\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5453ee955babb246a2a6ba274e155bdbf89ec0aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\XP-PC-XXX\StudioProjects\JinlgeVideo\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="989758a53af77bf77badd31dd085a0ec68a987ed">
+        <dex dex="C:\Users\XP-PC-XXX\StudioProjects\JinlgeVideo\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_50e4326bd8c5ba3463da288a55106e9fd0c472ee\classes.dex" />
     </item>
 
 </items>

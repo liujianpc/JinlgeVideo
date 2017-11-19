@@ -1,18 +1,18 @@
 [
     {
-        "merged": "E:\\EclipseWorkSpace\\JingleVideo\\build\\intermediates\\res\\merged\\debug\\menu\\link_list_activity.xml",
-        "source": "E:\\EclipseWorkSpace\\JingleVideo\\res\\menu\\link_list_activity.xml"
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\menu\\option.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\menu\\option.xml"
     },
     {
-        "merged": "E:\\EclipseWorkSpace\\JingleVideo\\build\\intermediates\\res\\merged\\debug\\menu\\option.xml",
-        "source": "E:\\EclipseWorkSpace\\JingleVideo\\res\\menu\\option.xml"
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\menu\\about.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\menu\\about.xml"
     },
     {
-        "merged": "E:\\EclipseWorkSpace\\JingleVideo\\build\\intermediates\\res\\merged\\debug\\menu\\about.xml",
-        "source": "E:\\EclipseWorkSpace\\JingleVideo\\res\\menu\\about.xml"
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\menu\\link_list_activity.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\menu\\link_list_activity.xml"
     },
     {
-        "merged": "E:\\EclipseWorkSpace\\JingleVideo\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "E:\\EclipseWorkSpace\\JingleVideo\\res\\menu\\main.xml"
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\menu\\main.xml"
     }
 ]

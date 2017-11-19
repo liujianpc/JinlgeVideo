@@ -1,14 +1,14 @@
 [
     {
-        "merged": "E:\\EclipseWorkSpace\\JingleVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\go_normal.png",
-        "source": "E:\\EclipseWorkSpace\\JingleVideo\\res\\drawable-xhdpi\\go_normal.png"
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\go_normal.png",
+        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\drawable-xhdpi\\go_normal.png"
     },
     {
-        "merged": "E:\\EclipseWorkSpace\\JingleVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\go_pressed.png",
-        "source": "E:\\EclipseWorkSpace\\JingleVideo\\res\\drawable-xhdpi\\go_pressed.png"
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\EclipseWorkSpace\\JingleVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
-        "source": "E:\\EclipseWorkSpace\\JingleVideo\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\go_pressed.png",
+        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\drawable-xhdpi\\go_pressed.png"
     }
 ]

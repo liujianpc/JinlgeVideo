@@ -68,7 +68,7 @@ public class GetPage {
         Elements links = document.select("a.btn_play");
         for (Element element : links) {
             String title = element.attr("_log_title");
-            String link = element.attr("href");
+            String link = "http:" + element.attr("href");
             Map<String, String> map = new HashMap<String, String>();
             map.put("title", title);
             map.put("url", link);
@@ -100,22 +100,23 @@ public class GetPage {
         List<Map<String, String>> linkList = new ArrayList<>();
 
         Document document = Jsoup.connect(
-                "http://www.btwhat.net/search/"+filmName+".html").get();
+                "http://www.baocaibt.com/search/" + filmName).get();
 
-        Elements links = document.select("a[href]");
+        Elements links = document.select("a[href^='/hash']");
         for (Element element : links) {
-            if (element.attr("href").contains("wiki")) {
+            if (element.attr("title").contains(filmName)) {
                 String hrefString = element.attr("href");
                 int indexBegin = hrefString.lastIndexOf("/");
-                int indexEnd = hrefString.lastIndexOf(".");
-                String link = hrefString.substring(indexBegin+1,indexEnd);
+                //int indexEnd = hrefString.lastIndexOf(".");
+                String link = hrefString.substring(indexBegin + 1);
                 Map<String, String> map = new HashMap<String, String>();
-                String script = element.child(0).dataNodes().get(0).getWholeData();
+               /* String script = element.child(0).dataNodes().get(0).getWholeData();
                 int index = script.lastIndexOf(")") - 2;
-                String titleTmp = script.substring(35,index).replace("\"+\"","");
-                String title = URLDecoder.decode(titleTmp,"UTF-8").replaceAll("<b>","").replaceAll("</b>","");
+                String titleTmp = script.substring(35, index).replace("\"+\"", "");
+                String title = URLDecoder.decode(titleTmp, "UTF-8").replaceAll("<b>", "").replaceAll("</b>", "");*/
+                String title = element.attr("title");
                 map.put("title", title);
-                map.put("url", "magnet:?xt=urn:btih:"+link);
+                map.put("url", "magnet:?xt=urn:btih:" + link);
                 linkList.add(map);
             }
 

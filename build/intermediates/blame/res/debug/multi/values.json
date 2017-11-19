@@ -1,3279 +1,2741 @@
 [
     {
-        "outputFile": "E:\\EclipseWorkSpace\\JingleVideo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 43,
-                    "endOffset": 94
+                    "endColumn": 44,
+                    "endOffset": 95
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 140,
-                        "startColumn": 4,
-                        "startOffset": 2958,
-                        "endColumn": 43,
-                        "endOffset": 2997
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 99,
-                    "endColumn": 46,
-                    "endOffset": 141
+                    "startOffset": 100,
+                    "endColumn": 47,
+                    "endOffset": 143
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 110,
-                        "startColumn": 4,
-                        "startOffset": 2330,
-                        "endColumn": 46,
-                        "endOffset": 2372
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 146,
-                    "endColumn": 38,
-                    "endOffset": 180
+                    "startOffset": 148,
+                    "endColumn": 49,
+                    "endOffset": 193
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 398,
-                        "startColumn": 4,
-                        "startOffset": 8526,
-                        "endColumn": 38,
-                        "endOffset": 8560
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 185,
-                    "endColumn": 44,
-                    "endOffset": 225
+                    "startOffset": 198,
+                    "endColumn": 49,
+                    "endOffset": 243
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 305,
-                        "startColumn": 4,
-                        "startOffset": 6476,
-                        "endColumn": 44,
-                        "endOffset": 6516
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 230,
-                    "endColumn": 39,
-                    "endOffset": 265
+                    "startOffset": 248,
+                    "endColumn": 62,
+                    "endOffset": 306
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 134,
-                        "startColumn": 4,
-                        "startOffset": 2836,
-                        "endColumn": 39,
-                        "endOffset": 2871
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 270,
-                    "endColumn": 39,
-                    "endOffset": 305
+                    "startOffset": 311,
+                    "endColumn": 59,
+                    "endOffset": 366
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 125,
-                        "startColumn": 4,
-                        "startOffset": 2652,
-                        "endColumn": 39,
-                        "endOffset": 2687
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 310,
-                    "endColumn": 40,
-                    "endOffset": 346
+                    "startOffset": 371,
+                    "endColumn": 60,
+                    "endOffset": 427
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 47,
-                        "startColumn": 4,
-                        "startOffset": 1011,
-                        "endColumn": 40,
-                        "endOffset": 1047
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 351,
-                    "endColumn": 39,
-                    "endOffset": 386
+                    "startOffset": 432,
+                    "endColumn": 66,
+                    "endOffset": 494
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 443,
-                        "startColumn": 4,
-                        "startOffset": 9467,
-                        "endColumn": 39,
-                        "endOffset": 9502
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 391,
-                    "endColumn": 48,
-                    "endOffset": 435
+                    "startOffset": 499,
+                    "endColumn": 62,
+                    "endOffset": 557
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 41,
-                        "startColumn": 4,
-                        "startOffset": 877,
-                        "endColumn": 48,
-                        "endOffset": 921
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 440,
-                    "endColumn": 38,
-                    "endOffset": 474
+                    "startOffset": 562,
+                    "endColumn": 43,
+                    "endOffset": 601
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 431,
-                        "startColumn": 4,
-                        "startOffset": 9222,
-                        "endColumn": 38,
-                        "endOffset": 9256
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 479,
-                    "endColumn": 44,
-                    "endOffset": 519
+                    "startOffset": 606,
+                    "endColumn": 46,
+                    "endOffset": 648
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 281,
-                        "startColumn": 4,
-                        "startOffset": 5983,
-                        "endColumn": 44,
-                        "endOffset": 6023
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 524,
-                    "endColumn": 39,
-                    "endOffset": 559
+                    "startOffset": 653,
+                    "endColumn": 38,
+                    "endOffset": 687
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 248,
-                        "startColumn": 4,
-                        "startOffset": 5274,
-                        "endColumn": 39,
-                        "endOffset": 5309
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 564,
-                    "endColumn": 43,
-                    "endOffset": 603
+                    "startOffset": 692,
+                    "endColumn": 44,
+                    "endOffset": 732
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 164,
-                        "startColumn": 4,
-                        "startOffset": 3472,
-                        "endColumn": 43,
-                        "endOffset": 3511
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 608,
-                    "endColumn": 43,
-                    "endOffset": 647
+                    "startOffset": 737,
+                    "endColumn": 39,
+                    "endOffset": 772
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 347,
-                        "startColumn": 4,
-                        "startOffset": 7398,
-                        "endColumn": 43,
-                        "endOffset": 7437
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 652,
-                    "endColumn": 44,
-                    "endOffset": 692
+                    "startOffset": 777,
+                    "endColumn": 39,
+                    "endOffset": 812
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 308,
-                        "startColumn": 4,
-                        "startOffset": 6541,
-                        "endColumn": 44,
-                        "endOffset": 6581
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 697,
-                    "endColumn": 43,
-                    "endOffset": 736
+                    "startOffset": 817,
+                    "endColumn": 40,
+                    "endOffset": 853
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 197,
-                        "startColumn": 4,
-                        "startOffset": 4163,
-                        "endColumn": 43,
-                        "endOffset": 4202
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 741,
+                    "startOffset": 858,
                     "endColumn": 39,
-                    "endOffset": 776
+                    "endOffset": 893
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 77,
-                        "startColumn": 4,
-                        "startOffset": 1638,
-                        "endColumn": 39,
-                        "endOffset": 1673
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 781,
+                    "startOffset": 898,
                     "endColumn": 48,
-                    "endOffset": 825
+                    "endOffset": 942
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 344,
-                        "startColumn": 4,
-                        "startOffset": 7329,
-                        "endColumn": 48,
-                        "endOffset": 7373
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 830,
-                    "endColumn": 42,
-                    "endOffset": 868
+                    "startOffset": 947,
+                    "endColumn": 38,
+                    "endOffset": 981
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 618,
-                        "endColumn": 42,
-                        "endOffset": 656
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 873,
-                    "endColumn": 41,
-                    "endOffset": 910
+                    "startOffset": 986,
+                    "endColumn": 44,
+                    "endOffset": 1026
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 173,
-                        "startColumn": 4,
-                        "startOffset": 3659,
-                        "endColumn": 41,
-                        "endOffset": 3696
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 915,
-                    "endColumn": 38,
-                    "endOffset": 949
+                    "startOffset": 1031,
+                    "endColumn": 39,
+                    "endOffset": 1066
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 401,
-                        "startColumn": 4,
-                        "startOffset": 8585,
-                        "endColumn": 38,
-                        "endOffset": 8619
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 954,
-                    "endColumn": 42,
-                    "endOffset": 992
+                    "startOffset": 1071,
+                    "endColumn": 43,
+                    "endOffset": 1110
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 437,
-                        "startColumn": 4,
-                        "startOffset": 9345,
-                        "endColumn": 42,
-                        "endOffset": 9383
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 997,
-                    "endColumn": 42,
-                    "endOffset": 1035
+                    "startOffset": 1115,
+                    "endColumn": 43,
+                    "endOffset": 1154
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 419,
-                        "startColumn": 4,
-                        "startOffset": 8977,
-                        "endColumn": 42,
-                        "endOffset": 9015
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1040,
-                    "endColumn": 47,
-                    "endOffset": 1083
+                    "startOffset": 1159,
+                    "endColumn": 44,
+                    "endOffset": 1199
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 221,
-                        "startColumn": 4,
-                        "startOffset": 4682,
-                        "endColumn": 47,
-                        "endOffset": 4725
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1088,
-                    "endColumn": 42,
-                    "endOffset": 1126
+                    "startOffset": 1204,
+                    "endColumn": 43,
+                    "endOffset": 1243
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 242,
-                        "startColumn": 4,
-                        "startOffset": 5148,
-                        "endColumn": 42,
-                        "endOffset": 5186
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 1131,
-                    "endColumn": 43,
-                    "endOffset": 1170
+                    "startOffset": 1248,
+                    "endColumn": 39,
+                    "endOffset": 1283
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 428,
-                        "startColumn": 4,
-                        "startOffset": 9158,
-                        "endColumn": 43,
-                        "endOffset": 9197
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1175,
-                    "endColumn": 42,
-                    "endOffset": 1213
+                    "startOffset": 1288,
+                    "endColumn": 48,
+                    "endOffset": 1332
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 245,
-                        "startColumn": 4,
-                        "startOffset": 5211,
-                        "endColumn": 42,
-                        "endOffset": 5249
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 1218,
-                    "endColumn": 43,
-                    "endOffset": 1257
+                    "startOffset": 1337,
+                    "endColumn": 42,
+                    "endOffset": 1375
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 212,
-                        "startColumn": 4,
-                        "startOffset": 4484,
-                        "endColumn": 43,
-                        "endOffset": 4523
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 1262,
-                    "endColumn": 45,
-                    "endOffset": 1303
+                    "startOffset": 1380,
+                    "endColumn": 41,
+                    "endOffset": 1417
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 275,
-                        "startColumn": 4,
-                        "startOffset": 5855,
-                        "endColumn": 45,
-                        "endOffset": 5896
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 1308,
-                    "endColumn": 48,
-                    "endOffset": 1352
+                    "startOffset": 1422,
+                    "endColumn": 38,
+                    "endOffset": 1456
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 350,
-                        "startColumn": 4,
-                        "startOffset": 7462,
-                        "endColumn": 48,
-                        "endOffset": 7506
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 1357,
-                    "endColumn": 44,
-                    "endOffset": 1397
+                    "startOffset": 1461,
+                    "endColumn": 42,
+                    "endOffset": 1499
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 74,
-                        "startColumn": 4,
-                        "startOffset": 1572,
-                        "endColumn": 44,
-                        "endOffset": 1612
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 1402,
-                    "endColumn": 44,
-                    "endOffset": 1442
+                    "startOffset": 1504,
+                    "endColumn": 42,
+                    "endOffset": 1542
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 254,
-                        "startColumn": 4,
-                        "startOffset": 5393,
-                        "endColumn": 44,
-                        "endOffset": 5433
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 1447,
-                    "endColumn": 41,
-                    "endOffset": 1484
+                    "startOffset": 1547,
+                    "endColumn": 47,
+                    "endOffset": 1590
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 278,
-                        "startColumn": 4,
-                        "startOffset": 5921,
-                        "endColumn": 41,
-                        "endOffset": 5958
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 1489,
-                    "endColumn": 44,
-                    "endOffset": 1529
+                    "startOffset": 1595,
+                    "endColumn": 42,
+                    "endOffset": 1633
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 155,
-                        "startColumn": 4,
-                        "startOffset": 3280,
-                        "endColumn": 44,
-                        "endOffset": 3320
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 1534,
-                    "endColumn": 46,
-                    "endOffset": 1576
+                    "startOffset": 1638,
+                    "endColumn": 43,
+                    "endOffset": 1677
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 269,
-                        "startColumn": 4,
-                        "startOffset": 5721,
-                        "endColumn": 46,
-                        "endOffset": 5763
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 1581,
-                    "endColumn": 47,
-                    "endOffset": 1624
+                    "startOffset": 1682,
+                    "endColumn": 42,
+                    "endOffset": 1720
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 359,
-                        "startColumn": 4,
-                        "startOffset": 7663,
-                        "endColumn": 47,
-                        "endOffset": 7706
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 1629,
-                    "endColumn": 47,
-                    "endOffset": 1672
+                    "startOffset": 1725,
+                    "endColumn": 43,
+                    "endOffset": 1764
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 377,
-                        "startColumn": 4,
-                        "startOffset": 8057,
-                        "endColumn": 47,
-                        "endOffset": 8100
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 1677,
-                    "endColumn": 47,
-                    "endOffset": 1720
+                    "startOffset": 1769,
+                    "endColumn": 45,
+                    "endOffset": 1810
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 380,
-                        "startColumn": 4,
-                        "startOffset": 8126,
-                        "endColumn": 47,
-                        "endOffset": 8169
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 1725,
-                    "endColumn": 47,
-                    "endOffset": 1768
+                    "startOffset": 1815,
+                    "endColumn": 48,
+                    "endOffset": 1859
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 413,
-                        "startColumn": 4,
-                        "startOffset": 8841,
-                        "endColumn": 47,
-                        "endOffset": 8884
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 1773,
+                    "startOffset": 1864,
                     "endColumn": 44,
-                    "endOffset": 1813
+                    "endOffset": 1904
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 260,
-                        "startColumn": 4,
-                        "startOffset": 5522,
-                        "endColumn": 44,
-                        "endOffset": 5562
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 1818,
-                    "endColumn": 42,
-                    "endOffset": 1856
+                    "startOffset": 1909,
+                    "endColumn": 44,
+                    "endOffset": 1949
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 89,
-                        "startColumn": 4,
-                        "startOffset": 1887,
-                        "endColumn": 42,
-                        "endOffset": 1925
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 1861,
-                    "endColumn": 45,
-                    "endOffset": 1902
+                    "startOffset": 1954,
+                    "endColumn": 41,
+                    "endOffset": 1991
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 416,
-                        "startColumn": 4,
-                        "startOffset": 8910,
-                        "endColumn": 45,
-                        "endOffset": 8951
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 1907,
-                    "endColumn": 41,
-                    "endOffset": 1944
+                    "startOffset": 1996,
+                    "endColumn": 44,
+                    "endOffset": 2036
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 335,
-                        "startColumn": 4,
-                        "startOffset": 7135,
-                        "endColumn": 41,
-                        "endOffset": 7172
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 1949,
-                    "endColumn": 41,
-                    "endOffset": 1986
+                    "startOffset": 2041,
+                    "endColumn": 46,
+                    "endOffset": 2083
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 338,
-                        "startColumn": 4,
-                        "startOffset": 7197,
-                        "endColumn": 41,
-                        "endOffset": 7234
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 1991,
-                    "endColumn": 44,
-                    "endOffset": 2031
+                    "startOffset": 2088,
+                    "endColumn": 47,
+                    "endOffset": 2131
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 392,
-                        "startColumn": 4,
-                        "startOffset": 8393,
-                        "endColumn": 44,
-                        "endOffset": 8433
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 2036,
-                    "endColumn": 43,
-                    "endOffset": 2075
+                    "startOffset": 2136,
+                    "endColumn": 47,
+                    "endOffset": 2179
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 224,
-                        "startColumn": 4,
-                        "startOffset": 4751,
-                        "endColumn": 43,
-                        "endOffset": 4790
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 2080,
-                    "endColumn": 45,
-                    "endOffset": 2121
+                    "startOffset": 2184,
+                    "endColumn": 47,
+                    "endOffset": 2227
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 484,
-                        "endColumn": 45,
-                        "endOffset": 525
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 2126,
-                    "endColumn": 45,
-                    "endOffset": 2167
+                    "startOffset": 2232,
+                    "endColumn": 47,
+                    "endOffset": 2275
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 386,
-                        "startColumn": 4,
-                        "startOffset": 8258,
-                        "endColumn": 45,
-                        "endOffset": 8299
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 2172,
-                    "endColumn": 41,
-                    "endOffset": 2209
+                    "startOffset": 2280,
+                    "endColumn": 44,
+                    "endOffset": 2320
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 92,
-                        "startColumn": 4,
-                        "startOffset": 1951,
-                        "endColumn": 41,
-                        "endOffset": 1988
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 2214,
-                    "endColumn": 43,
-                    "endOffset": 2253
+                    "startOffset": 2325,
+                    "endColumn": 42,
+                    "endOffset": 2363
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 170,
-                        "startColumn": 4,
-                        "startOffset": 3595,
-                        "endColumn": 43,
-                        "endOffset": 3634
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 2258,
-                    "endColumn": 44,
-                    "endOffset": 2298
+                    "startOffset": 2368,
+                    "endColumn": 45,
+                    "endOffset": 2409
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 116,
-                        "startColumn": 4,
-                        "startOffset": 2458,
-                        "endColumn": 44,
-                        "endOffset": 2498
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 2303,
-                    "endColumn": 38,
-                    "endOffset": 2337
+                    "startOffset": 2414,
+                    "endColumn": 71,
+                    "endOffset": 2481
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 59,
-                        "startColumn": 4,
-                        "startOffset": 1264,
-                        "endColumn": 38,
-                        "endOffset": 1298
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 2342,
-                    "endColumn": 43,
-                    "endOffset": 2381
+                    "startOffset": 2486,
+                    "endColumn": 71,
+                    "endOffset": 2553
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 179,
-                        "startColumn": 4,
-                        "startOffset": 3791,
-                        "endColumn": 43,
-                        "endOffset": 3830
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 2386,
-                    "endColumn": 38,
-                    "endOffset": 2420
+                    "startOffset": 2558,
+                    "endColumn": 73,
+                    "endOffset": 2627
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 290,
-                        "startColumn": 4,
-                        "startOffset": 6180,
-                        "endColumn": 38,
-                        "endOffset": 6214
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 2425,
-                    "endColumn": 39,
-                    "endOffset": 2460
+                    "startOffset": 2632,
+                    "endColumn": 73,
+                    "endOffset": 2701
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 425,
-                        "startColumn": 4,
-                        "startOffset": 9099,
-                        "endColumn": 39,
-                        "endOffset": 9134
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 2465,
-                    "endColumn": 45,
-                    "endOffset": 2506
+                    "startOffset": 2706,
+                    "endColumn": 75,
+                    "endOffset": 2777
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 236,
-                        "startColumn": 4,
-                        "startOffset": 5018,
-                        "endColumn": 45,
-                        "endOffset": 5059
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 2511,
-                    "endColumn": 38,
-                    "endOffset": 2545
+                    "startOffset": 2782,
+                    "endColumn": 72,
+                    "endOffset": 2850
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 293,
-                        "startColumn": 4,
-                        "startOffset": 6238,
-                        "endColumn": 38,
-                        "endOffset": 6272
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 2550,
-                    "endColumn": 42,
-                    "endOffset": 2588
+                    "startOffset": 2855,
+                    "endColumn": 74,
+                    "endOffset": 2925
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 137,
-                        "startColumn": 4,
-                        "startOffset": 2896,
-                        "endColumn": 42,
-                        "endOffset": 2934
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 2593,
-                    "endColumn": 41,
-                    "endOffset": 2630
+                    "startOffset": 2930,
+                    "endColumn": 70,
+                    "endOffset": 2996
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 80,
-                        "startColumn": 4,
-                        "startOffset": 1698,
-                        "endColumn": 41,
-                        "endOffset": 1735
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 2635,
-                    "endColumn": 43,
-                    "endOffset": 2674
+                    "startOffset": 3001,
+                    "endColumn": 78,
+                    "endOffset": 3075
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 203,
-                        "startColumn": 4,
-                        "startOffset": 4287,
-                        "endColumn": 43,
-                        "endOffset": 4326
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 2679,
-                    "endColumn": 40,
-                    "endOffset": 2715
+                    "startOffset": 3080,
+                    "endColumn": 41,
+                    "endOffset": 3117
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 353,
-                        "startColumn": 4,
-                        "startOffset": 7532,
-                        "endColumn": 40,
-                        "endOffset": 7568
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 2720,
-                    "endColumn": 39,
-                    "endOffset": 2755
+                    "startOffset": 3122,
+                    "endColumn": 41,
+                    "endOffset": 3159
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 239,
-                        "endColumn": 39,
-                        "endOffset": 274
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 2760,
-                    "endColumn": 39,
-                    "endOffset": 2795
+                    "startOffset": 3164,
+                    "endColumn": 44,
+                    "endOffset": 3204
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 143,
-                        "startColumn": 4,
-                        "startOffset": 3023,
-                        "endColumn": 39,
-                        "endOffset": 3058
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 65,
                     "startColumn": 4,
-                    "startOffset": 2800,
-                    "endColumn": 42,
-                    "endOffset": 2838
+                    "startOffset": 3209,
+                    "endColumn": 43,
+                    "endOffset": 3248
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 158,
-                        "startColumn": 4,
-                        "startOffset": 3345,
-                        "endColumn": 42,
-                        "endOffset": 3383
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 66,
                     "startColumn": 4,
-                    "startOffset": 2843,
-                    "endColumn": 47,
-                    "endOffset": 2886
+                    "startOffset": 3253,
+                    "endColumn": 45,
+                    "endOffset": 3294
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 35,
-                        "startColumn": 4,
-                        "startOffset": 744,
-                        "endColumn": 47,
-                        "endOffset": 787
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 67,
                     "startColumn": 4,
-                    "startOffset": 2891,
-                    "endColumn": 43,
-                    "endOffset": 2930
+                    "startOffset": 3299,
+                    "endColumn": 45,
+                    "endOffset": 3340
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 311,
-                        "startColumn": 4,
-                        "startOffset": 6606,
-                        "endColumn": 43,
-                        "endOffset": 6645
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 2935,
-                    "endColumn": 46,
-                    "endOffset": 2977
+                    "startOffset": 3345,
+                    "endColumn": 41,
+                    "endOffset": 3382
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 550,
-                        "endColumn": 46,
-                        "endOffset": 592
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 2982,
+                    "startOffset": 3387,
                     "endColumn": 43,
-                    "endOffset": 3021
+                    "endOffset": 3426
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 239,
-                        "startColumn": 4,
-                        "startOffset": 5084,
-                        "endColumn": 43,
-                        "endOffset": 5123
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 3026,
+                    "startOffset": 3431,
                     "endColumn": 44,
-                    "endOffset": 3066
+                    "endOffset": 3471
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 146,
-                        "startColumn": 4,
-                        "startOffset": 3083,
-                        "endColumn": 44,
-                        "endOffset": 3123
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 3071,
-                    "endColumn": 43,
-                    "endOffset": 3110
+                    "startOffset": 3476,
+                    "endColumn": 38,
+                    "endOffset": 3510
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 161,
-                        "startColumn": 4,
-                        "startOffset": 3408,
-                        "endColumn": 43,
-                        "endOffset": 3447
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 3115,
-                    "endColumn": 54,
-                    "endOffset": 3165
+                    "startOffset": 3515,
+                    "endColumn": 43,
+                    "endOffset": 3554
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 104,
-                        "startColumn": 4,
-                        "startOffset": 2194,
-                        "endColumn": 54,
-                        "endOffset": 2244
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 73,
                     "startColumn": 4,
-                    "startOffset": 3170,
-                    "endColumn": 43,
-                    "endOffset": 3209
+                    "startOffset": 3559,
+                    "endColumn": 38,
+                    "endOffset": 3593
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 188,
-                        "startColumn": 4,
-                        "startOffset": 3978,
-                        "endColumn": 43,
-                        "endOffset": 4017
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 74,
                     "startColumn": 4,
-                    "startOffset": 3214,
-                    "endColumn": 44,
-                    "endOffset": 3254
+                    "startOffset": 3598,
+                    "endColumn": 39,
+                    "endOffset": 3633
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 266,
-                        "startColumn": 4,
-                        "startOffset": 5656,
-                        "endColumn": 44,
-                        "endOffset": 5696
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 75,
                     "startColumn": 4,
-                    "startOffset": 3259,
-                    "endColumn": 43,
-                    "endOffset": 3298
+                    "startOffset": 3638,
+                    "endColumn": 45,
+                    "endOffset": 3679
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 191,
-                        "startColumn": 4,
-                        "startOffset": 4042,
-                        "endColumn": 43,
-                        "endOffset": 4081
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 76,
                     "startColumn": 4,
-                    "startOffset": 3303,
-                    "endColumn": 43,
-                    "endOffset": 3342
+                    "startOffset": 3684,
+                    "endColumn": 38,
+                    "endOffset": 3718
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 65,
-                        "startColumn": 4,
-                        "startOffset": 1381,
-                        "endColumn": 43,
-                        "endOffset": 1420
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 77,
                     "startColumn": 4,
-                    "startOffset": 3347,
-                    "endColumn": 45,
-                    "endOffset": 3388
+                    "startOffset": 3723,
+                    "endColumn": 42,
+                    "endOffset": 3761
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 71,
-                        "startColumn": 4,
-                        "startOffset": 1506,
-                        "endColumn": 45,
-                        "endOffset": 1547
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 78,
                     "startColumn": 4,
-                    "startOffset": 3393,
-                    "endColumn": 47,
-                    "endOffset": 3436
+                    "startOffset": 3766,
+                    "endColumn": 41,
+                    "endOffset": 3803
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 389,
-                        "startColumn": 4,
-                        "startOffset": 8324,
-                        "endColumn": 47,
-                        "endOffset": 8367
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 79,
                     "startColumn": 4,
-                    "startOffset": 3441,
-                    "endColumn": 46,
-                    "endOffset": 3483
+                    "startOffset": 3808,
+                    "endColumn": 43,
+                    "endOffset": 3847
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 284,
-                        "startColumn": 4,
-                        "startOffset": 6050,
-                        "endColumn": 46,
-                        "endOffset": 6092
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 80,
                     "startColumn": 4,
-                    "startOffset": 3488,
-                    "endColumn": 48,
-                    "endOffset": 3532
+                    "startOffset": 3852,
+                    "endColumn": 40,
+                    "endOffset": 3888
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 317,
-                        "startColumn": 4,
-                        "startOffset": 6740,
-                        "endColumn": 48,
-                        "endOffset": 6784
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 81,
                     "startColumn": 4,
-                    "startOffset": 3537,
-                    "endColumn": 48,
-                    "endOffset": 3581
+                    "startOffset": 3893,
+                    "endColumn": 39,
+                    "endOffset": 3928
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 320,
-                        "startColumn": 4,
-                        "startOffset": 6809,
-                        "endColumn": 48,
-                        "endOffset": 6853
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 82,
                     "startColumn": 4,
-                    "startOffset": 3586,
-                    "endColumn": 48,
-                    "endOffset": 3630
+                    "startOffset": 3933,
+                    "endColumn": 39,
+                    "endOffset": 3968
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 230,
-                        "startColumn": 4,
-                        "startOffset": 4880,
-                        "endColumn": 48,
-                        "endOffset": 4924
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 83,
                     "startColumn": 4,
-                    "startOffset": 3635,
-                    "endColumn": 45,
-                    "endOffset": 3676
+                    "startOffset": 3973,
+                    "endColumn": 42,
+                    "endOffset": 4011
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 299,
-                        "endColumn": 45,
-                        "endOffset": 340
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 84,
                     "startColumn": 4,
-                    "startOffset": 3681,
-                    "endColumn": 38,
-                    "endOffset": 3715
+                    "startOffset": 4016,
+                    "endColumn": 47,
+                    "endOffset": 4059
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 407,
-                        "startColumn": 4,
-                        "startOffset": 8709,
-                        "endColumn": 38,
-                        "endOffset": 8743
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 85,
                     "startColumn": 4,
-                    "startOffset": 3720,
+                    "startOffset": 4064,
                     "endColumn": 43,
-                    "endOffset": 3759
+                    "endOffset": 4103
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 374,
-                        "startColumn": 4,
-                        "startOffset": 7993,
-                        "endColumn": 43,
-                        "endOffset": 8032
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 86,
                     "startColumn": 4,
-                    "startOffset": 3764,
-                    "endColumn": 39,
-                    "endOffset": 3799
+                    "startOffset": 4108,
+                    "endColumn": 46,
+                    "endOffset": 4150
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 107,
-                        "startColumn": 4,
-                        "startOffset": 2270,
-                        "endColumn": 39,
-                        "endOffset": 2305
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 87,
                     "startColumn": 4,
-                    "startOffset": 3804,
-                    "endColumn": 41,
-                    "endOffset": 3841
+                    "startOffset": 4155,
+                    "endColumn": 43,
+                    "endOffset": 4194
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 95,
-                        "startColumn": 4,
-                        "startOffset": 2013,
-                        "endColumn": 41,
-                        "endOffset": 2050
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 88,
                     "startColumn": 4,
-                    "startOffset": 3846,
-                    "endColumn": 40,
-                    "endOffset": 3882
+                    "startOffset": 4199,
+                    "endColumn": 44,
+                    "endOffset": 4239
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 302,
-                        "startColumn": 4,
-                        "startOffset": 6416,
-                        "endColumn": 40,
-                        "endOffset": 6452
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 89,
                     "startColumn": 4,
-                    "startOffset": 3887,
-                    "endColumn": 50,
-                    "endOffset": 3933
+                    "startOffset": 4244,
+                    "endColumn": 43,
+                    "endOffset": 4283
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 341,
-                        "startColumn": 4,
-                        "startOffset": 7259,
-                        "endColumn": 50,
-                        "endOffset": 7305
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 90,
                     "startColumn": 4,
-                    "startOffset": 3938,
-                    "endColumn": 44,
-                    "endOffset": 3978
+                    "startOffset": 4288,
+                    "endColumn": 54,
+                    "endOffset": 4338
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 434,
-                        "startColumn": 4,
-                        "startOffset": 9280,
-                        "endColumn": 44,
-                        "endOffset": 9320
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 91,
                     "startColumn": 4,
-                    "startOffset": 3983,
-                    "endColumn": 46,
-                    "endOffset": 4025
+                    "startOffset": 4343,
+                    "endColumn": 43,
+                    "endOffset": 4382
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 218,
-                        "startColumn": 4,
-                        "startOffset": 4614,
-                        "endColumn": 46,
-                        "endOffset": 4656
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 92,
                     "startColumn": 4,
-                    "startOffset": 4030,
-                    "endColumn": 46,
-                    "endOffset": 4072
+                    "startOffset": 4387,
+                    "endColumn": 44,
+                    "endOffset": 4427
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 263,
-                        "startColumn": 4,
-                        "startOffset": 5589,
-                        "endColumn": 46,
-                        "endOffset": 5631
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 93,
                     "startColumn": 4,
-                    "startOffset": 4077,
-                    "endColumn": 48,
-                    "endOffset": 4121
+                    "startOffset": 4432,
+                    "endColumn": 43,
+                    "endOffset": 4471
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 371,
-                        "startColumn": 4,
-                        "startOffset": 7924,
-                        "endColumn": 48,
-                        "endOffset": 7968
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 94,
                     "startColumn": 4,
-                    "startOffset": 4126,
-                    "endColumn": 49,
-                    "endOffset": 4171
+                    "startOffset": 4476,
+                    "endColumn": 43,
+                    "endOffset": 4515
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 314,
-                        "startColumn": 4,
-                        "startOffset": 6670,
-                        "endColumn": 49,
-                        "endOffset": 6715
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 95,
                     "startColumn": 4,
-                    "startOffset": 4176,
-                    "endColumn": 51,
-                    "endOffset": 4223
+                    "startOffset": 4520,
+                    "endColumn": 45,
+                    "endOffset": 4561
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 410,
-                        "startColumn": 4,
-                        "startOffset": 8768,
-                        "endColumn": 51,
-                        "endOffset": 8815
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 96,
                     "startColumn": 4,
-                    "startOffset": 4228,
-                    "endColumn": 49,
-                    "endOffset": 4273
+                    "startOffset": 4566,
+                    "endColumn": 47,
+                    "endOffset": 4609
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 356,
-                        "startColumn": 4,
-                        "startOffset": 7593,
-                        "endColumn": 49,
-                        "endOffset": 7638
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 97,
                     "startColumn": 4,
-                    "startOffset": 4278,
-                    "endColumn": 49,
-                    "endOffset": 4323
+                    "startOffset": 4614,
+                    "endColumn": 46,
+                    "endOffset": 4656
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 206,
-                        "startColumn": 4,
-                        "startOffset": 4352,
-                        "endColumn": 49,
-                        "endOffset": 4397
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 98,
                     "startColumn": 4,
-                    "startOffset": 4328,
-                    "endColumn": 46,
-                    "endOffset": 4370
+                    "startOffset": 4661,
+                    "endColumn": 48,
+                    "endOffset": 4705
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 395,
-                        "startColumn": 4,
-                        "startOffset": 8458,
-                        "endColumn": 46,
-                        "endOffset": 8500
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 99,
                     "startColumn": 4,
-                    "startOffset": 4375,
-                    "endColumn": 43,
-                    "endOffset": 4414
+                    "startOffset": 4710,
+                    "endColumn": 48,
+                    "endOffset": 4754
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 119,
-                        "startColumn": 4,
-                        "startOffset": 2523,
-                        "endColumn": 43,
-                        "endOffset": 2562
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 100,
                     "startColumn": 4,
-                    "startOffset": 4419,
-                    "endColumn": 43,
-                    "endOffset": 4458
+                    "startOffset": 4759,
+                    "endColumn": 48,
+                    "endOffset": 4803
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 44,
-                        "startColumn": 4,
-                        "startOffset": 946,
-                        "endColumn": 43,
-                        "endOffset": 985
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 101,
                     "startColumn": 4,
-                    "startOffset": 4463,
-                    "endColumn": 42,
-                    "endOffset": 4501
+                    "startOffset": 4808,
+                    "endColumn": 45,
+                    "endOffset": 4849
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 50,
-                        "startColumn": 4,
-                        "startOffset": 1072,
-                        "endColumn": 42,
-                        "endOffset": 1110
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 102,
                     "startColumn": 4,
-                    "startOffset": 4506,
-                    "endColumn": 41,
-                    "endOffset": 4543
+                    "startOffset": 4854,
+                    "endColumn": 38,
+                    "endOffset": 4888
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 61,
-                        "endColumn": 41,
-                        "endOffset": 98
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 103,
                     "startColumn": 4,
-                    "startOffset": 4548,
-                    "endColumn": 42,
-                    "endOffset": 4586
+                    "startOffset": 4893,
+                    "endColumn": 43,
+                    "endOffset": 4932
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 120,
-                        "endColumn": 42,
-                        "endOffset": 158
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 104,
                     "startColumn": 4,
-                    "startOffset": 4591,
-                    "endColumn": 45,
-                    "endOffset": 4632
+                    "startOffset": 4937,
+                    "endColumn": 39,
+                    "endOffset": 4972
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 53,
-                        "startColumn": 4,
-                        "startOffset": 1135,
-                        "endColumn": 45,
-                        "endOffset": 1176
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 105,
                     "startColumn": 4,
-                    "startOffset": 4637,
-                    "endColumn": 38,
-                    "endOffset": 4671
+                    "startOffset": 4977,
+                    "endColumn": 41,
+                    "endOffset": 5014
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 440,
-                        "startColumn": 4,
-                        "startOffset": 9408,
-                        "endColumn": 38,
-                        "endOffset": 9442
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 4676,
-                    "endColumn": 41,
-                    "endOffset": 4713
+                    "startOffset": 5019,
+                    "endColumn": 40,
+                    "endOffset": 5055
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 101,
-                        "startColumn": 4,
-                        "startOffset": 2132,
-                        "endColumn": 41,
-                        "endOffset": 2169
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 107,
                     "startColumn": 4,
-                    "startOffset": 4718,
-                    "endColumn": 39,
-                    "endOffset": 4753
+                    "startOffset": 5060,
+                    "endColumn": 50,
+                    "endOffset": 5106
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 296,
-                        "startColumn": 4,
-                        "startOffset": 6296,
-                        "endColumn": 39,
-                        "endOffset": 6331
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 108,
                     "startColumn": 4,
-                    "startOffset": 4758,
-                    "endColumn": 43,
-                    "endOffset": 4797
+                    "startOffset": 5111,
+                    "endColumn": 44,
+                    "endOffset": 5151
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 329,
-                        "startColumn": 4,
-                        "startOffset": 7006,
-                        "endColumn": 43,
-                        "endOffset": 7045
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 109,
                     "startColumn": 4,
-                    "startOffset": 4802,
-                    "endColumn": 40,
-                    "endOffset": 4838
+                    "startOffset": 5156,
+                    "endColumn": 46,
+                    "endOffset": 5198
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 68,
-                        "startColumn": 4,
-                        "startOffset": 1446,
-                        "endColumn": 40,
-                        "endOffset": 1482
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 110,
                     "startColumn": 4,
-                    "startOffset": 4843,
-                    "endColumn": 43,
-                    "endOffset": 4882
+                    "startOffset": 5203,
+                    "endColumn": 46,
+                    "endOffset": 5245
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 86,
-                        "startColumn": 4,
-                        "startOffset": 1823,
-                        "endColumn": 43,
-                        "endOffset": 1862
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 111,
                     "startColumn": 4,
-                    "startOffset": 4887,
-                    "endColumn": 40,
-                    "endOffset": 4923
+                    "startOffset": 5250,
+                    "endColumn": 48,
+                    "endOffset": 5294
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 182,
-                        "startColumn": 4,
-                        "startOffset": 3856,
-                        "endColumn": 40,
-                        "endOffset": 3892
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 112,
                     "startColumn": 4,
-                    "startOffset": 4928,
-                    "endColumn": 47,
-                    "endOffset": 4971
+                    "startOffset": 5299,
+                    "endColumn": 49,
+                    "endOffset": 5344
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 149,
-                        "startColumn": 4,
-                        "startOffset": 3149,
-                        "endColumn": 47,
-                        "endOffset": 3192
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 113,
                     "startColumn": 4,
-                    "startOffset": 4976,
-                    "endColumn": 43,
-                    "endOffset": 5015
+                    "startOffset": 5349,
+                    "endColumn": 51,
+                    "endOffset": 5396
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 257,
-                        "startColumn": 4,
-                        "startOffset": 5458,
-                        "endColumn": 43,
-                        "endOffset": 5497
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 114,
                     "startColumn": 4,
-                    "startOffset": 5020,
-                    "endColumn": 47,
-                    "endOffset": 5063
+                    "startOffset": 5401,
+                    "endColumn": 49,
+                    "endOffset": 5446
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 233,
-                        "startColumn": 4,
-                        "startOffset": 4949,
-                        "endColumn": 47,
-                        "endOffset": 4992
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 115,
                     "startColumn": 4,
-                    "startOffset": 5068,
-                    "endColumn": 47,
-                    "endOffset": 5111
+                    "startOffset": 5451,
+                    "endColumn": 49,
+                    "endOffset": 5496
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 176,
-                        "startColumn": 4,
-                        "startOffset": 3722,
-                        "endColumn": 47,
-                        "endOffset": 3765
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 116,
                     "startColumn": 4,
-                    "startOffset": 5116,
-                    "endColumn": 44,
-                    "endOffset": 5156
+                    "startOffset": 5501,
+                    "endColumn": 46,
+                    "endOffset": 5543
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 38,
-                        "startColumn": 4,
-                        "startOffset": 812,
-                        "endColumn": 44,
-                        "endOffset": 852
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 5161,
+                    "startOffset": 5548,
                     "endColumn": 43,
-                    "endOffset": 5200
+                    "endOffset": 5587
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 56,
-                        "startColumn": 4,
-                        "startOffset": 1201,
-                        "endColumn": 43,
-                        "endOffset": 1240
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 118,
                     "startColumn": 4,
-                    "startOffset": 5205,
-                    "endColumn": 38,
-                    "endOffset": 5239
+                    "startOffset": 5592,
+                    "endColumn": 43,
+                    "endOffset": 5631
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 200,
-                        "startColumn": 4,
-                        "startOffset": 4228,
-                        "endColumn": 38,
-                        "endOffset": 4262
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 119,
                     "startColumn": 4,
-                    "startOffset": 5244,
-                    "endColumn": 38,
-                    "endOffset": 5278
+                    "startOffset": 5636,
+                    "endColumn": 42,
+                    "endOffset": 5674
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 62,
-                        "startColumn": 4,
-                        "startOffset": 1322,
-                        "endColumn": 38,
-                        "endOffset": 1356
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 120,
                     "startColumn": 4,
-                    "startOffset": 5283,
-                    "endColumn": 38,
-                    "endOffset": 5317
+                    "startOffset": 5679,
+                    "endColumn": 41,
+                    "endOffset": 5716
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 167,
-                        "startColumn": 4,
-                        "startOffset": 3536,
-                        "endColumn": 38,
-                        "endOffset": 3570
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 121,
                     "startColumn": 4,
-                    "startOffset": 5322,
-                    "endColumn": 44,
-                    "endOffset": 5362
+                    "startOffset": 5721,
+                    "endColumn": 42,
+                    "endOffset": 5759
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 227,
-                        "startColumn": 4,
-                        "startOffset": 4815,
-                        "endColumn": 44,
-                        "endOffset": 4855
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 122,
                     "startColumn": 4,
-                    "startOffset": 5367,
-                    "endColumn": 40,
-                    "endOffset": 5403
+                    "startOffset": 5764,
+                    "endColumn": 45,
+                    "endOffset": 5805
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 299,
-                        "startColumn": 4,
-                        "startOffset": 6356,
-                        "endColumn": 40,
-                        "endOffset": 6392
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 123,
                     "startColumn": 4,
-                    "startOffset": 5408,
-                    "endColumn": 37,
-                    "endOffset": 5441
+                    "startOffset": 5810,
+                    "endColumn": 38,
+                    "endOffset": 5844
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 98,
-                        "startColumn": 4,
-                        "startOffset": 2075,
-                        "endColumn": 37,
-                        "endOffset": 2108
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 124,
                     "startColumn": 4,
-                    "startOffset": 5446,
-                    "endColumn": 43,
-                    "endOffset": 5485
+                    "startOffset": 5849,
+                    "endColumn": 41,
+                    "endOffset": 5886
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 215,
-                        "startColumn": 4,
-                        "startOffset": 4549,
-                        "endColumn": 43,
-                        "endOffset": 4588
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 125,
                     "startColumn": 4,
-                    "startOffset": 5490,
-                    "endColumn": 43,
-                    "endOffset": 5529
+                    "startOffset": 5891,
+                    "endColumn": 39,
+                    "endOffset": 5926
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 365,
-                        "startColumn": 4,
-                        "startOffset": 7796,
-                        "endColumn": 43,
-                        "endOffset": 7835
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 126,
                     "startColumn": 4,
-                    "startOffset": 5534,
-                    "endColumn": 45,
-                    "endOffset": 5575
+                    "startOffset": 5931,
+                    "endColumn": 43,
+                    "endOffset": 5970
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 272,
-                        "startColumn": 4,
-                        "startOffset": 5789,
-                        "endColumn": 45,
-                        "endOffset": 5830
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 127,
                     "startColumn": 4,
-                    "startOffset": 5580,
+                    "startOffset": 5975,
                     "endColumn": 40,
-                    "endOffset": 5616
+                    "endOffset": 6011
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 113,
-                        "startColumn": 4,
-                        "startOffset": 2397,
-                        "endColumn": 40,
-                        "endOffset": 2433
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 128,
                     "startColumn": 4,
-                    "startOffset": 5621,
-                    "endColumn": 44,
-                    "endOffset": 5661
+                    "startOffset": 6016,
+                    "endColumn": 43,
+                    "endOffset": 6055
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 131,
-                        "startColumn": 4,
-                        "startOffset": 2771,
-                        "endColumn": 44,
-                        "endOffset": 2811
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 129,
                     "startColumn": 4,
-                    "startOffset": 5666,
-                    "endColumn": 42,
-                    "endOffset": 5704
+                    "startOffset": 6060,
+                    "endColumn": 40,
+                    "endOffset": 6096
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 383,
-                        "startColumn": 4,
-                        "startOffset": 8195,
-                        "endColumn": 42,
-                        "endOffset": 8233
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 130,
                     "startColumn": 4,
-                    "startOffset": 5709,
-                    "endColumn": 42,
-                    "endOffset": 5747
+                    "startOffset": 6101,
+                    "endColumn": 47,
+                    "endOffset": 6144
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 681,
-                        "endColumn": 42,
-                        "endOffset": 719
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 131,
                     "startColumn": 4,
-                    "startOffset": 5752,
-                    "endColumn": 40,
-                    "endOffset": 5788
+                    "startOffset": 6149,
+                    "endColumn": 43,
+                    "endOffset": 6188
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 251,
-                        "startColumn": 4,
-                        "startOffset": 5333,
-                        "endColumn": 40,
-                        "endOffset": 5369
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 132,
                     "startColumn": 4,
-                    "startOffset": 5793,
-                    "endColumn": 40,
-                    "endOffset": 5829
+                    "startOffset": 6193,
+                    "endColumn": 47,
+                    "endOffset": 6236
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 209,
-                        "startColumn": 4,
-                        "startOffset": 4424,
-                        "endColumn": 40,
-                        "endOffset": 4460
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 133,
                     "startColumn": 4,
-                    "startOffset": 5834,
-                    "endColumn": 41,
-                    "endOffset": 5871
+                    "startOffset": 6241,
+                    "endColumn": 47,
+                    "endOffset": 6284
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 287,
-                        "startColumn": 4,
-                        "startOffset": 6118,
-                        "endColumn": 41,
-                        "endOffset": 6155
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 134,
                     "startColumn": 4,
-                    "startOffset": 5876,
-                    "endColumn": 43,
-                    "endOffset": 5915
+                    "startOffset": 6289,
+                    "endColumn": 44,
+                    "endOffset": 6329
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 332,
-                        "startColumn": 4,
-                        "startOffset": 7071,
-                        "endColumn": 43,
-                        "endOffset": 7110
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 135,
                     "startColumn": 4,
-                    "startOffset": 5920,
+                    "startOffset": 6334,
                     "endColumn": 43,
-                    "endOffset": 5959
+                    "endOffset": 6373
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 323,
-                        "startColumn": 4,
-                        "startOffset": 6878,
-                        "endColumn": 43,
-                        "endOffset": 6917
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 136,
                     "startColumn": 4,
-                    "startOffset": 5964,
-                    "endColumn": 43,
-                    "endOffset": 6003
+                    "startOffset": 6378,
+                    "endColumn": 38,
+                    "endOffset": 6412
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 326,
-                        "startColumn": 4,
-                        "startOffset": 6942,
-                        "endColumn": 43,
-                        "endOffset": 6981
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 137,
                     "startColumn": 4,
-                    "startOffset": 6008,
+                    "startOffset": 6417,
                     "endColumn": 38,
-                    "endOffset": 6042
+                    "endOffset": 6451
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 425,
-                        "endColumn": 38,
-                        "endOffset": 459
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 138,
                     "startColumn": 4,
-                    "startOffset": 6047,
-                    "endColumn": 45,
-                    "endOffset": 6088
+                    "startOffset": 6456,
+                    "endColumn": 38,
+                    "endOffset": 6490
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 404,
-                        "startColumn": 4,
-                        "startOffset": 8643,
-                        "endColumn": 45,
-                        "endOffset": 8684
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 139,
                     "startColumn": 4,
-                    "startOffset": 6093,
-                    "endColumn": 43,
-                    "endOffset": 6132
+                    "startOffset": 6495,
+                    "endColumn": 44,
+                    "endOffset": 6535
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 362,
-                        "startColumn": 4,
-                        "startOffset": 7732,
-                        "endColumn": 43,
-                        "endOffset": 7771
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 140,
                     "startColumn": 4,
-                    "startOffset": 6137,
-                    "endColumn": 37,
-                    "endOffset": 6170
+                    "startOffset": 6540,
+                    "endColumn": 40,
+                    "endOffset": 6576
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 194,
-                        "startColumn": 4,
-                        "startOffset": 4106,
-                        "endColumn": 37,
-                        "endOffset": 4139
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 141,
                     "startColumn": 4,
-                    "startOffset": 6175,
-                    "endColumn": 38,
-                    "endOffset": 6209
+                    "startOffset": 6581,
+                    "endColumn": 37,
+                    "endOffset": 6614
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 422,
-                        "startColumn": 4,
-                        "startOffset": 9040,
-                        "endColumn": 38,
-                        "endOffset": 9074
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 142,
                     "startColumn": 4,
-                    "startOffset": 6214,
-                    "endColumn": 41,
-                    "endOffset": 6251
+                    "startOffset": 6619,
+                    "endColumn": 43,
+                    "endOffset": 6658
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 185,
-                        "startColumn": 4,
-                        "startOffset": 3917,
-                        "endColumn": 41,
-                        "endOffset": 3954
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 143,
                     "startColumn": 4,
-                    "startOffset": 6256,
-                    "endColumn": 40,
-                    "endOffset": 6292
+                    "startOffset": 6663,
+                    "endColumn": 43,
+                    "endOffset": 6702
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 83,
-                        "startColumn": 4,
-                        "startOffset": 1761,
-                        "endColumn": 40,
-                        "endOffset": 1797
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 144,
                     "startColumn": 4,
-                    "startOffset": 6297,
-                    "endColumn": 43,
-                    "endOffset": 6336
+                    "startOffset": 6707,
+                    "endColumn": 45,
+                    "endOffset": 6748
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 368,
-                        "startColumn": 4,
-                        "startOffset": 7860,
-                        "endColumn": 43,
-                        "endOffset": 7899
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 145,
                     "startColumn": 4,
-                    "startOffset": 6341,
+                    "startOffset": 6753,
                     "endColumn": 40,
-                    "endOffset": 6377
+                    "endOffset": 6789
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 152,
-                        "startColumn": 4,
-                        "startOffset": 3218,
-                        "endColumn": 40,
-                        "endOffset": 3254
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 146,
                     "startColumn": 4,
-                    "startOffset": 6382,
-                    "endColumn": 39,
-                    "endOffset": 6417
+                    "startOffset": 6794,
+                    "endColumn": 44,
+                    "endOffset": 6834
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 128,
-                        "startColumn": 4,
-                        "startOffset": 2711,
-                        "endColumn": 39,
-                        "endOffset": 2746
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 147,
                     "startColumn": 4,
-                    "startOffset": 6422,
-                    "endColumn": 39,
-                    "endOffset": 6457
+                    "startOffset": 6839,
+                    "endColumn": 42,
+                    "endOffset": 6877
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 180,
-                        "endColumn": 39,
-                        "endOffset": 215
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 148,
                     "startColumn": 4,
-                    "startOffset": 6462,
-                    "endColumn": 44,
-                    "endOffset": 6502
+                    "startOffset": 6882,
+                    "endColumn": 42,
+                    "endOffset": 6920
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 122,
-                        "startColumn": 4,
-                        "startOffset": 2587,
-                        "endColumn": 44,
-                        "endOffset": 2627
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 149,
                     "startColumn": 4,
-                    "startOffset": 6507,
+                    "startOffset": 6925,
                     "endColumn": 40,
-                    "endOffset": 6543
+                    "endOffset": 6961
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\color.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 365,
-                        "endColumn": 40,
-                        "endOffset": 401
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 150,
                     "startColumn": 4,
-                    "startOffset": 6548,
-                    "endColumn": 57,
-                    "endOffset": 6601
+                    "startOffset": 6966,
+                    "endColumn": 40,
+                    "endOffset": 7002
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 92,
-                        "endColumn": 57,
-                        "endOffset": 145
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 151,
                     "startColumn": 4,
-                    "startOffset": 6606,
-                    "endColumn": 55,
-                    "endOffset": 6657
+                    "startOffset": 7007,
+                    "endColumn": 41,
+                    "endOffset": 7044
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 151,
-                        "endColumn": 55,
-                        "endOffset": 202
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 152,
                     "startColumn": 4,
-                    "startOffset": 6662,
-                    "endColumn": 44,
-                    "endOffset": 6702
+                    "startOffset": 7049,
+                    "endColumn": 43,
+                    "endOffset": 7088
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 797,
-                        "endColumn": 44,
-                        "endOffset": 837
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 153,
                     "startColumn": 4,
-                    "startOffset": 6707,
-                    "endColumn": 46,
-                    "endOffset": 6749
+                    "startOffset": 7093,
+                    "endColumn": 43,
+                    "endOffset": 7132
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 225,
-                        "endColumn": 46,
-                        "endOffset": 267
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 154,
                     "startColumn": 4,
-                    "startOffset": 6754,
-                    "endColumn": 40,
-                    "endOffset": 6790
+                    "startOffset": 7137,
+                    "endColumn": 43,
+                    "endOffset": 7176
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1047,
-                        "endColumn": 40,
-                        "endOffset": 1083
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 155,
                     "startColumn": 4,
-                    "startOffset": 6795,
-                    "endColumn": 41,
-                    "endOffset": 6832
+                    "startOffset": 7181,
+                    "endColumn": 38,
+                    "endOffset": 7215
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 59,
-                        "endColumn": 41,
-                        "endOffset": 96
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 156,
                     "startColumn": 4,
-                    "startOffset": 6837,
-                    "endColumn": 60,
-                    "endOffset": 6893
+                    "startOffset": 7220,
+                    "endColumn": 45,
+                    "endOffset": 7261
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 328,
-                        "endColumn": 60,
-                        "endOffset": 384
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 157,
                     "startColumn": 4,
-                    "startOffset": 6898,
-                    "endColumn": 26,
-                    "endOffset": 6920
+                    "startOffset": 7266,
+                    "endColumn": 43,
+                    "endOffset": 7305
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 955,
-                        "endColumn": 34,
-                        "endOffset": 985
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 158,
                     "startColumn": 4,
-                    "startOffset": 6925,
-                    "endColumn": 42,
-                    "endOffset": 6963
+                    "startOffset": 7310,
+                    "endColumn": 37,
+                    "endOffset": 7343
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 843,
-                        "endColumn": 42,
-                        "endOffset": 881
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 159,
                     "startColumn": 4,
-                    "startOffset": 6968,
-                    "endColumn": 66,
-                    "endOffset": 7030
+                    "startOffset": 7348,
+                    "endColumn": 38,
+                    "endOffset": 7382
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 677,
-                        "endColumn": 66,
-                        "endOffset": 739
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 160,
                     "startColumn": 4,
-                    "startOffset": 7035,
-                    "endColumn": 33,
-                    "endOffset": 7064
+                    "startOffset": 7387,
+                    "endColumn": 41,
+                    "endOffset": 7424
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 1179,
-                        "endColumn": 33,
-                        "endOffset": 1208
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 161,
                     "startColumn": 4,
-                    "startOffset": 7069,
-                    "endColumn": 50,
-                    "endOffset": 7115
+                    "startOffset": 7429,
+                    "endColumn": 40,
+                    "endOffset": 7465
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 745,
-                        "endColumn": 50,
-                        "endOffset": 791
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 162,
                     "startColumn": 4,
-                    "startOffset": 7120,
-                    "endLine": 164,
-                    "endColumn": 13,
-                    "endOffset": 7344
+                    "startOffset": 7470,
+                    "endColumn": 43,
+                    "endOffset": 7509
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 390,
-                        "endLine": 12,
-                        "endColumn": 13,
-                        "endOffset": 616
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 7514,
+                    "endColumn": 40,
+                    "endOffset": 7550
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 7555,
+                    "endColumn": 61,
+                    "endOffset": 7612
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 165,
                     "startColumn": 4,
-                    "startOffset": 7349,
-                    "endColumn": 35,
-                    "endOffset": 7380
+                    "startOffset": 7617,
+                    "endColumn": 62,
+                    "endOffset": 7675
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 150,
-                        "endColumn": 35,
-                        "endOffset": 181
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 166,
                     "startColumn": 4,
-                    "startOffset": 7385,
-                    "endColumn": 36,
-                    "endOffset": 7417
+                    "startOffset": 7680,
+                    "endColumn": 77,
+                    "endOffset": 7753
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 187,
-                        "endColumn": 36,
-                        "endOffset": 219
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 7422,
-                    "endColumn": 47,
-                    "endOffset": 7465
+                    "startOffset": 7758,
+                    "endColumn": 78,
+                    "endOffset": 7832
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 1089,
-                        "endColumn": 47,
-                        "endOffset": 1132
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 168,
                     "startColumn": 4,
-                    "startOffset": 7470,
-                    "endColumn": 53,
-                    "endOffset": 7519
+                    "startOffset": 7837,
+                    "endColumn": 92,
+                    "endOffset": 7925
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 273,
-                        "endColumn": 53,
-                        "endOffset": 322
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 7524,
-                    "endColumn": 66,
-                    "endOffset": 7586
+                    "startOffset": 7930,
+                    "endColumn": 92,
+                    "endOffset": 8018
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 887,
-                        "endColumn": 66,
-                        "endOffset": 949
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 170,
                     "startColumn": 4,
-                    "startOffset": 7591,
-                    "endColumn": 54,
-                    "endOffset": 7641
+                    "startOffset": 8023,
+                    "endColumn": 107,
+                    "endOffset": 8126
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 991,
-                        "endColumn": 54,
-                        "endOffset": 1041
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 7646,
-                    "endColumn": 46,
-                    "endOffset": 7688
+                    "startOffset": 8131,
+                    "endColumn": 107,
+                    "endOffset": 8234
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 102,
-                        "endColumn": 46,
-                        "endOffset": 144
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 7693,
-                    "endColumn": 53,
-                    "endOffset": 7742
+                    "startOffset": 8239,
+                    "endColumn": 39,
+                    "endOffset": 8274
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 622,
-                        "endColumn": 53,
-                        "endOffset": 671
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 173,
                     "startColumn": 4,
-                    "startOffset": 7747,
+                    "startOffset": 8279,
                     "endColumn": 39,
-                    "endOffset": 7782
+                    "endOffset": 8314
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 1138,
-                        "endColumn": 39,
-                        "endOffset": 1173
-                    }
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 7787,
-                    "endLine": 180,
-                    "endColumn": 12,
-                    "endOffset": 8073
+                    "startOffset": 8319,
+                    "endColumn": 44,
+                    "endOffset": 8359
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 8364,
+                    "endColumn": 40,
+                    "endOffset": 8400
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 10710,
+                    "endColumn": 57,
+                    "endOffset": 10763
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 10768,
+                    "endColumn": 55,
+                    "endOffset": 10819
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 10824,
+                    "endColumn": 61,
+                    "endOffset": 10881
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 10886,
+                    "endColumn": 67,
+                    "endOffset": 10949
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 10954,
+                    "endColumn": 62,
+                    "endOffset": 11012
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 11017,
+                    "endColumn": 64,
+                    "endOffset": 11077
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 11082,
+                    "endColumn": 65,
+                    "endOffset": 11143
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 11148,
+                    "endColumn": 66,
+                    "endOffset": 11210
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 11215,
+                    "endColumn": 77,
+                    "endOffset": 11288
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 11293,
+                    "endColumn": 89,
+                    "endOffset": 11378
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 11383,
+                    "endColumn": 72,
+                    "endOffset": 11451
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 11456,
+                    "endColumn": 68,
+                    "endOffset": 11520
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 11525,
+                    "endColumn": 64,
+                    "endOffset": 11585
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 11590,
+                    "endColumn": 67,
+                    "endOffset": 11653
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 11658,
+                    "endColumn": 65,
+                    "endOffset": 11719
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 11724,
+                    "endColumn": 68,
+                    "endOffset": 11788
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 11793,
+                    "endColumn": 78,
+                    "endOffset": 11867
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 11872,
+                    "endColumn": 69,
+                    "endOffset": 11937
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 11942,
+                    "endColumn": 72,
+                    "endOffset": 12010
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 12015,
+                    "endColumn": 73,
+                    "endOffset": 12084
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 12089,
+                    "endColumn": 44,
+                    "endOffset": 12129
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 12134,
+                    "endColumn": 46,
+                    "endOffset": 12176
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 12181,
+                    "endColumn": 40,
+                    "endOffset": 12217
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 12222,
+                    "endColumn": 41,
+                    "endOffset": 12259
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 12264,
+                    "endColumn": 60,
+                    "endOffset": 12320
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 12325,
+                    "endColumn": 26,
+                    "endOffset": 12347
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 12352,
+                    "endColumn": 42,
+                    "endOffset": 12390
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 12395,
+                    "endColumn": 66,
+                    "endOffset": 12457
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 12462,
+                    "endColumn": 33,
+                    "endOffset": 12491
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 12496,
+                    "endColumn": 50,
+                    "endOffset": 12542
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 12547,
+                    "endLine": 220,
+                    "endColumn": 13,
+                    "endOffset": 12771
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 12776,
+                    "endColumn": 35,
+                    "endOffset": 12807
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 12812,
+                    "endColumn": 36,
+                    "endOffset": 12844
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 12849,
+                    "endColumn": 47,
+                    "endOffset": 12892
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 12897,
+                    "endColumn": 53,
+                    "endOffset": 12946
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 12951,
+                    "endColumn": 66,
+                    "endOffset": 13013
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 13018,
+                    "endColumn": 54,
+                    "endOffset": 13068
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 13073,
+                    "endColumn": 46,
+                    "endOffset": 13115
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 13120,
+                    "endColumn": 53,
+                    "endOffset": 13169
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 13174,
+                    "endColumn": 39,
+                    "endOffset": 13209
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 13214,
+                    "endLine": 236,
+                    "endColumn": 12,
+                    "endOffset": 13500
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 191,
+                        "startOffset": 192,
                         "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 481
+                        "endOffset": 484
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 181,
+                    "startLine": 237,
                     "startColumn": 4,
-                    "startOffset": 8078,
-                    "endLine": 183,
+                    "startOffset": 13505,
+                    "endLine": 239,
                     "endColumn": 12,
-                    "endOffset": 8233
+                    "endOffset": 13660
                 },
                 "from": {
-                    "file": "E:\\EclipseWorkSpace\\JingleVideo\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 522,
+                        "startOffset": 525,
                         "endLine": 17,
                         "endColumn": 12,
-                        "endOffset": 679
+                        "endOffset": 682
                     }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 13665,
+                    "endLine": 251,
+                    "endColumn": 12,
+                    "endOffset": 14274
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 14279,
+                    "endLine": 256,
+                    "endColumn": 12,
+                    "endOffset": 14505
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1491,
+                        "endLine": 40,
+                        "endColumn": 12,
+                        "endOffset": 1721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 14510,
+                    "endLine": 259,
+                    "endColumn": 12,
+                    "endOffset": 14673
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 14678,
+                    "endLine": 262,
+                    "endColumn": 12,
+                    "endOffset": 14774
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 14779,
+                    "endLine": 266,
+                    "endColumn": 12,
+                    "endOffset": 14974
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 14979,
+                    "endLine": 270,
+                    "endColumn": 12,
+                    "endOffset": 15227
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 15232,
+                    "endLine": 272,
+                    "endColumn": 12,
+                    "endOffset": 15266
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 15271,
+                    "endLine": 276,
+                    "endColumn": 12,
+                    "endOffset": 15456
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 15461,
+                    "endLine": 287,
+                    "endColumn": 12,
+                    "endOffset": 16058
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
                 }
             }
         ]

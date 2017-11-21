@@ -2620,7 +2620,28 @@
                     "startOffset": 13665,
                     "endLine": 251,
                     "endColumn": 12,
-                    "endOffset": 14274
+                    "endOffset": 14275
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 863,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 14280,
+                    "endLine": 256,
+                    "endColumn": 12,
+                    "endOffset": 14506
                 },
                 "from": {
                     "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\styles.xml"
@@ -2628,33 +2649,12 @@
             },
             {
                 "to": {
-                    "startLine": 252,
-                    "startColumn": 4,
-                    "startOffset": 14279,
-                    "endLine": 256,
-                    "endColumn": 12,
-                    "endOffset": 14505
-                },
-                "from": {
-                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 36,
-                        "startColumn": 4,
-                        "startOffset": 1491,
-                        "endLine": 40,
-                        "endColumn": 12,
-                        "endOffset": 1721
-                    }
-                }
-            },
-            {
-                "to": {
                     "startLine": 257,
                     "startColumn": 4,
-                    "startOffset": 14510,
+                    "startOffset": 14511,
                     "endLine": 259,
                     "endColumn": 12,
-                    "endOffset": 14673
+                    "endOffset": 14674
                 },
                 "from": {
                     "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\styles.xml"
@@ -2664,10 +2664,10 @@
                 "to": {
                     "startLine": 260,
                     "startColumn": 4,
-                    "startOffset": 14678,
+                    "startOffset": 14679,
                     "endLine": 262,
                     "endColumn": 12,
-                    "endOffset": 14774
+                    "endOffset": 14775
                 },
                 "from": {
                     "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values\\styles.xml"
@@ -2677,10 +2677,10 @@
                 "to": {
                     "startLine": 263,
                     "startColumn": 4,
-                    "startOffset": 14779,
+                    "startOffset": 14780,
                     "endLine": 266,
                     "endColumn": 12,
-                    "endOffset": 14974
+                    "endOffset": 14975
                 },
                 "from": {
                     "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
@@ -2690,10 +2690,10 @@
                 "to": {
                     "startLine": 267,
                     "startColumn": 4,
-                    "startOffset": 14979,
+                    "startOffset": 14980,
                     "endLine": 270,
                     "endColumn": 12,
-                    "endOffset": 15227
+                    "endOffset": 15228
                 },
                 "from": {
                     "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
@@ -2703,10 +2703,10 @@
                 "to": {
                     "startLine": 271,
                     "startColumn": 4,
-                    "startOffset": 15232,
+                    "startOffset": 15233,
                     "endLine": 272,
                     "endColumn": 12,
-                    "endOffset": 15266
+                    "endOffset": 15267
                 },
                 "from": {
                     "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
@@ -2716,10 +2716,10 @@
                 "to": {
                     "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 15271,
+                    "startOffset": 15272,
                     "endLine": 276,
                     "endColumn": 12,
-                    "endOffset": 15456
+                    "endOffset": 15457
                 },
                 "from": {
                     "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
@@ -2729,10 +2729,10 @@
                 "to": {
                     "startLine": 277,
                     "startColumn": 4,
-                    "startOffset": 15461,
+                    "startOffset": 15462,
                     "endLine": 287,
                     "endColumn": 12,
-                    "endOffset": 16058
+                    "endOffset": 16059
                 },
                 "from": {
                     "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"

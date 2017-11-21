@@ -22,6 +22,66 @@
                         "endOffset": 317
                     }
                 }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 496,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1033
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values-v11\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1038,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1201
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values-v11\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1206,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1302
+                },
+                "from": {
+                    "file": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\values-v11\\styles.xml"
+                }
             }
         ]
     }

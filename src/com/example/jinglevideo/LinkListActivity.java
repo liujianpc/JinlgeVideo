@@ -326,7 +326,6 @@ public class LinkListActivity extends BaseActivity {
         rightButton.setText("    ");
         rightButton.setClickable(false);
 
-        // viewPager������
         viewList = new ArrayList<>();
         for (int i = 0; i < viewIds.length; i++) {
             views[i] = View.inflate(LinkListActivity.this, viewIds[i], null);
@@ -388,17 +387,7 @@ public class LinkListActivity extends BaseActivity {
                             break;
                         case 1:
                             rightButton.setText("换源");
-                            rightButton.setOnClickListener(new OnClickListener() {
-
-                                @Override
-                                public void onClick(View arg0) {
-                                    // TODO Auto-generated method stub
-                                    Intent intent = new Intent(
-                                            LinkListActivity.this,
-                                            OptionActivity.class);
-                                    startActivityForResult(intent, 1);
-                                }
-                            });
+                            rightButton.setOnClickListener(new Listener());
                             myThread = new MyThread(filmName, handler,
                                     progressDialog, R.id.list_view_iqiyi);
                             netThread = new Thread(myThread);
@@ -406,17 +395,7 @@ public class LinkListActivity extends BaseActivity {
                             break;
                         case 2:
                             rightButton.setText("换源");
-                            rightButton.setOnClickListener(new OnClickListener() {
-
-                                @Override
-                                public void onClick(View arg0) {
-                                    // TODO Auto-generated method stub
-                                    Intent intent = new Intent(
-                                            LinkListActivity.this,
-                                            OptionActivity.class);
-                                    startActivityForResult(intent, 1);
-                                }
-                            });
+                            rightButton.setOnClickListener(new Listener());
                             myThread = new MyThread(filmName, handler,
                                     progressDialog, R.id.list_view_youku);
                             netThread = new Thread(myThread);
@@ -424,17 +403,7 @@ public class LinkListActivity extends BaseActivity {
                             break;
                         case 3:
                             rightButton.setText("换源");
-                            rightButton.setOnClickListener(new OnClickListener() {
-
-                                @Override
-                                public void onClick(View arg0) {
-                                    // TODO Auto-generated method stub
-                                    Intent intent = new Intent(
-                                            LinkListActivity.this,
-                                            OptionActivity.class);
-                                    startActivityForResult(intent, 1);
-                                }
-                            });
+                            rightButton.setOnClickListener(new Listener());
                             myThread = new MyThread(filmName, handler,
                                     progressDialog, R.id.list_view_leshi);
                             netThread = new Thread(myThread);
@@ -442,17 +411,7 @@ public class LinkListActivity extends BaseActivity {
                             break;
                         case 4:
                             rightButton.setText("换源");
-                            rightButton.setOnClickListener(new OnClickListener() {
-
-                                @Override
-                                public void onClick(View arg0) {
-                                    // TODO Auto-generated method stub
-                                    Intent intent = new Intent(
-                                            LinkListActivity.this,
-                                            OptionActivity.class);
-                                    startActivityForResult(intent, 1);
-                                }
-                            });
+                            rightButton.setOnClickListener(new Listener());
                             myThread = new MyThread(filmName, handler,
                                     progressDialog, R.id.list_view_mangguo);
                             netThread = new Thread(myThread);
@@ -538,6 +497,16 @@ public class LinkListActivity extends BaseActivity {
             ActivityCollector.finishAllActivity();
         }
         return super.onOptionsItemSelected(item);
+    }
+
+    class Listener implements OnClickListener {
+
+        @Override
+        public void onClick(View view) {
+            Intent intent = new Intent(LinkListActivity.this,
+                    OptionActivity.class);
+            startActivityForResult(intent, 1);
+        }
     }
 
 }

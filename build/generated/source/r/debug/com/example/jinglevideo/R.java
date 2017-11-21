@@ -571,11 +571,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int AppBaseTheme=0x7f040000;
         /**  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f040001;
-        public static final int CustomTabPageIndicator=0x7f040002;
-        public static final int CustomTabPageIndicator_Text=0x7f040003;
-        public static final int StyledIndicators=0x7f040004;
-        public static final int TabLayoutTextStyle=0x7f040005;
+        public static final int AppTheme=0x7f040005;
+        public static final int CustomTabPageIndicator=0x7f040001;
+        public static final int CustomTabPageIndicator_Text=0x7f040002;
+        public static final int StyledIndicators=0x7f040003;
+        public static final int TabLayoutTextStyle=0x7f040004;
         public static final int TextAppearance_TabPageIndicator=0x7f040006;
         public static final int Theme_PageIndicatorDefaults=0x7f040007;
         public static final int Widget=0x7f040008;

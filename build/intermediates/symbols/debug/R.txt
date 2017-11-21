@@ -302,11 +302,11 @@ int string title_content 0x7f090011
 int string warn 0x7f090012
 int string wechat 0x7f090013
 int style AppBaseTheme 0x7f040000
-int style AppTheme 0x7f040001
-int style CustomTabPageIndicator 0x7f040002
-int style CustomTabPageIndicator_Text 0x7f040003
-int style StyledIndicators 0x7f040004
-int style TabLayoutTextStyle 0x7f040005
+int style AppTheme 0x7f040005
+int style CustomTabPageIndicator 0x7f040001
+int style CustomTabPageIndicator_Text 0x7f040002
+int style StyledIndicators 0x7f040003
+int style TabLayoutTextStyle 0x7f040004
 int style TextAppearance_TabPageIndicator 0x7f040006
 int style Theme_PageIndicatorDefaults 0x7f040007
 int style Widget 0x7f040008

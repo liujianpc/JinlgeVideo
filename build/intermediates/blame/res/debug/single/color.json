@@ -4,6 +4,10 @@
         "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\color\\vpi__dark_theme.xml"
     },
     {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\color\\abc_search_url_text_holo.xml"
+    },
+    {
         "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
         "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\color\\vpi__light_theme.xml"
     }

@@ -4,16 +4,40 @@
         "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\layout\\activity_about.xml"
     },
     {
-        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\view1.xml",
-        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\layout\\view1.xml"
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\view4.xml",
-        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\layout\\view4.xml"
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\layout\\activity_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\jz_dialog_brightness.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\layout\\jz_dialog_brightness.xml"
     },
     {
         "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_option.xml",
         "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\layout\\activity_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\view3.xml",
@@ -24,23 +48,119 @@
         "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\layout\\list_item.xml"
     },
     {
-        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\link_list_activity.xml",
-        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\layout\\link_list_activity.xml"
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_action_bar_home.xml"
     },
     {
-        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\view6.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\layout\\view6.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_action_bar_decor_overlay.xml"
     },
     {
         "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
         "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\layout\\custom_title.xml"
     },
     {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
         "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\view5.xml",
         "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\layout\\view5.xml"
     },
     {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\view2.xml",
         "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\layout\\view2.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\view1.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\layout\\view1.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\view4.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\layout\\view4.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\jz_dialog_progress.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\layout\\jz_dialog_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\link_list_activity.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\layout\\link_list_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\jz_dialog_volume.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\layout\\jz_dialog_volume.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\jz_layout_standard.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\layout\\jz_layout_standard.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\jz_layout_clarity.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\layout\\jz_layout_clarity.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\layout\\jz_layout_clarity_item.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\layout\\jz_layout_clarity_item.xml"
     }
 ]

@@ -7,13 +7,13 @@ import android.content.ClipboardManager;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
-import android.support.v4.view.PagerTabStrip;
 import android.support.v4.view.ViewPager;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -42,7 +42,7 @@ import java.util.Map;
 public class LinkListActivity extends BaseActivity {
 
     int[] flag = new int[5];
-    String playLink = "http://aikan-tv.com/?url=";
+    String playLink = "http://jqaaa.com/jx.php?url=";
     private ViewPager viewPager = null;
     private MyPagerAdapter myPagerAdapter = null;
     private View[] views = new View[5];
@@ -50,7 +50,7 @@ public class LinkListActivity extends BaseActivity {
             R.layout.view4, R.layout.view5};
     private List<View> viewList = null;
     private List<String> titleList = null;
-    private static final String[] titleStrings = {"磁力", "爱奇艺", "优酷", "乐视", "芒果"};
+    private static final String[] titleStrings = {"磁力", "爱奇艺", "优酷", "腾讯", "芒果", "乐视"};
     //private PagerTabStrip tab = null;
     TextView titleTextView, urlTextView;
     Button rightButton;
@@ -102,162 +102,42 @@ public class LinkListActivity extends BaseActivity {
 
                                 }
                             });
-                            listView.setOnItemClickListener(new OnItemClickListener() {
-
-                                @Override
-                                public void onItemClick(AdapterView<?> arg0, View arg1,
-                                                        int arg2, long arg3) {
-                                    // TODO Auto-generated method stub
-                                    titleTextView = (TextView) arg1
-                                            .findViewById(android.R.id.text1);
-                                    urlTextView = (TextView) arg1
-                                            .findViewById(android.R.id.text2);
-                                    title = titleTextView.getText().toString();
-                                    url = urlTextView.getText().toString();
-                                    final String api = "http://api.kltvv.top/api/ap.php?u=";
-                                    AlertDialog.Builder builder = new AlertDialog.Builder(LinkListActivity.this);
-                                    builder.setCancelable(true);
-                                    builder.setMessage("去浏览器打开，还是百度云离线下载？");
-                                    builder.setTitle("选择打开方式");
-                                    builder.setNegativeButton("百度云", new DialogInterface.OnClickListener() {
-                                        @Override
-                                        public void onClick(DialogInterface dialogInterface, int i) {
-                                            PackageManager packageManager = getPackageManager();
-                                            Intent intent = packageManager.getLaunchIntentForPackage("com.baidu.netdisk");
-                                            if (intent != null) {
-                                                startActivity(intent);
-                                            } else {
-                                                Toast.makeText(LinkListActivity.this, "请安装百度云", Toast.LENGTH_SHORT).show();
-                                            }
-
-                                        }
-                                    });
-                                    builder.setPositiveButton("浏览器", new DialogInterface.OnClickListener() {
-                                        @Override
-                                        public void onClick(DialogInterface dialogInterface, int i) {
-                                            Toast.makeText(LinkListActivity.this, "前往浏览器打开视频",
-                                                    Toast.LENGTH_LONG).show();
-                                            Intent intent = new Intent(Intent.ACTION_VIEW, Uri
-                                                    .parse(api + url));
-                                            startActivity(intent);
-
-                                        }
-                                    });
-                                    builder.create();
-                                    builder.show();
-
-                                }
-                            });
+                            setMagnetPageListener(listView);
                             break;
                         case R.id.list_view_iqiyi:
                             flag[1] = 1;
                             listView = (ListView) findViewById(R.id.list_view_iqiyi);
                             listView.setAdapter(adapter);
 
-                            listView.setOnItemClickListener(new OnItemClickListener() {
-
-                                @Override
-                                public void onItemClick(AdapterView<?> arg0, View arg1,
-                                                        int arg2, long arg3) {
-                                    // TODO Auto-generated method stub
-                                    titleTextView = (TextView) arg1
-                                            .findViewById(android.R.id.text1);
-                                    urlTextView = (TextView) arg1
-                                            .findViewById(android.R.id.text2);
-                                    title = titleTextView.getText().toString();
-                                    url = urlTextView.getText().toString();
-                                    String api = playLink + url;
-                                    Toast.makeText(LinkListActivity.this, "前往浏览器打开视频",
-                                            Toast.LENGTH_LONG).show();
-                                    Intent intent = new Intent(Intent.ACTION_VIEW, Uri
-                                            .parse(api));
-                                    startActivity(intent);
-
-                                }
-                            });
+                            setListViewListener(listView);
                             break;
                         case R.id.list_view_youku:
                             flag[2] = 1;
                             listView = (ListView) findViewById(R.id.list_view_youku);
                             listView.setAdapter(adapter);
 
-                            listView.setOnItemClickListener(new OnItemClickListener() {
-
-                                @Override
-                                public void onItemClick(AdapterView<?> arg0, View arg1,
-                                                        int arg2, long arg3) {
-                                    // TODO Auto-generated method stub
-                                    titleTextView = (TextView) arg1
-                                            .findViewById(android.R.id.text1);
-                                    urlTextView = (TextView) arg1
-                                            .findViewById(android.R.id.text2);
-                                    title = titleTextView.getText().toString();
-                                    url = urlTextView.getText().toString();
-                                    String api = playLink + url;
-                                    Toast.makeText(LinkListActivity.this, "前往浏览器打开视频",
-                                            Toast.LENGTH_LONG).show();
-                                    Intent intent = new Intent(Intent.ACTION_VIEW, Uri
-                                            .parse(api));
-                                    startActivity(intent);
-
-                                }
-                            });
+                            setListViewListener(listView);
                             break;
-                        case R.id.list_view_leshi:
+                        case R.id.list_view_tencent:
                             flag[3] = 1;
-                            listView = (ListView) findViewById(R.id.list_view_leshi);
+                            listView = (ListView) findViewById(R.id.list_view_tencent);
                             listView.setAdapter(adapter);
 
-                            // ���õ����¼�
-                            listView.setOnItemClickListener(new OnItemClickListener() {
-
-                                @Override
-                                public void onItemClick(AdapterView<?> arg0, View arg1,
-                                                        int arg2, long arg3) {
-                                    // TODO Auto-generated method stub
-                                    titleTextView = (TextView) arg1
-                                            .findViewById(android.R.id.text1);
-                                    urlTextView = (TextView) arg1
-                                            .findViewById(android.R.id.text2);
-                                    title = titleTextView.getText().toString();
-                                    url = urlTextView.getText().toString();
-                                    String api = playLink + url;
-                                    Toast.makeText(LinkListActivity.this, "前往浏览器打开视频",
-                                            Toast.LENGTH_LONG).show();
-                                    Intent intent = new Intent(Intent.ACTION_VIEW, Uri
-                                            .parse(api));
-                                    startActivity(intent);
-
-                                }
-                            });
+                            setListViewListener(listView);
                             break;
                         case R.id.list_view_mangguo:
                             flag[4] = 1;
                             listView = (ListView) findViewById(R.id.list_view_mangguo);
                             listView.setAdapter(adapter);
 
-                            // ���õ����¼�
-                            listView.setOnItemClickListener(new OnItemClickListener() {
+                            setListViewListener(listView);
+                            break;
+                        case R.id.list_view_leshi:
+                            flag[4] = 1;
+                            listView = (ListView) findViewById(R.id.list_view_leshi);
+                            listView.setAdapter(adapter);
 
-                                @Override
-                                public void onItemClick(AdapterView<?> arg0, View arg1,
-                                                        int arg2, long arg3) {
-                                    // TODO Auto-generated method stub
-                                    titleTextView = (TextView) arg1
-                                            .findViewById(android.R.id.text1);
-                                    urlTextView = (TextView) arg1
-                                            .findViewById(android.R.id.text2);
-                                    title = titleTextView.getText().toString();
-                                    url = urlTextView.getText().toString();
-                                    String api = playLink + url;
-                                    Toast.makeText(LinkListActivity.this, "前往浏览器打开视频",
-                                            Toast.LENGTH_LONG).show();
-                                    Intent intent = new Intent(Intent.ACTION_VIEW, Uri
-                                            .parse(api));
-                                    startActivity(intent);
-
-                                }
-                            });
+                            setListViewListener(listView);
                             break;
 
                         default:
@@ -266,7 +146,6 @@ public class LinkListActivity extends BaseActivity {
 
                     break;
 
-                // �������Ĵ���
                 case 2:
                     AlertDialog.Builder dialog = new AlertDialog.Builder(
                             LinkListActivity.this);
@@ -306,6 +185,121 @@ public class LinkListActivity extends BaseActivity {
 
         ;
     };
+
+    /**
+     * 磁力頁面的監聽器設置
+     *
+     * @param listView
+     */
+    private void setMagnetPageListener(ListView listView) {
+        listView.setOnItemClickListener(new OnItemClickListener() {
+
+            @Override
+            public void onItemClick(AdapterView<?> arg0, View arg1,
+                                    int arg2, long arg3) {
+                // TODO Auto-generated method stub
+                titleTextView = (TextView) arg1
+                        .findViewById(android.R.id.text1);
+                urlTextView = (TextView) arg1
+                        .findViewById(android.R.id.text2);
+                title = titleTextView.getText().toString();
+                url = urlTextView.getText().toString();
+                final String api = "http://api.kltvv.top/api/ap.php?u=";
+                AlertDialog.Builder builder = new AlertDialog.Builder(LinkListActivity.this);
+                builder.setCancelable(true);
+                builder.setMessage("去浏览器打开，还是百度云离线下载？");
+                builder.setTitle("选择打开方式");
+                builder.setNegativeButton("百度云", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialogInterface, int i) {
+                        PackageManager packageManager = getPackageManager();
+                        Intent intent = packageManager.getLaunchIntentForPackage("com.baidu.netdisk");
+                        if (intent != null) {
+                            startActivity(intent);
+                        } else {
+                            Toast.makeText(LinkListActivity.this, "请安装百度云", Toast.LENGTH_SHORT).show();
+                        }
+
+                    }
+                });
+                builder.setPositiveButton("浏览器", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialogInterface, int i) {
+                        Toast.makeText(LinkListActivity.this, "前往浏览器打开视频",
+                                Toast.LENGTH_LONG).show();
+                        Intent intent = new Intent(Intent.ACTION_VIEW, Uri
+                                .parse(api + url));
+                        startActivity(intent);
+
+                    }
+                });
+                builder.create();
+                builder.show();
+
+            }
+        });
+    }
+
+    /**
+     * 设置listView的监听器
+     *
+     * @param listView
+     */
+
+    private void setListViewListener(ListView listView) {
+        listView.setOnItemClickListener(new OnItemClickListener() {
+
+            @Override
+            public void onItemClick(AdapterView<?> arg0, View arg1,
+                                    int arg2, long arg3) {
+                // TODO Auto-generated method stub
+                titleTextView = (TextView) arg1
+                        .findViewById(android.R.id.text1);
+                urlTextView = (TextView) arg1
+                        .findViewById(android.R.id.text2);
+                title = titleTextView.getText().toString();
+                url = urlTextView.getText().toString();
+                String api = playLink + url;
+                Toast.makeText(LinkListActivity.this, "前往浏览器打开视频",
+                        Toast.LENGTH_LONG).show();
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri
+                        .parse(api));
+                startActivity(intent);
+
+            }
+        });
+    }
+
+    /**
+     * 使用videoPlayer发开
+     *
+     * @param listView
+     */
+    private void gotoVideoPlayer(ListView listView) {
+        listView.setOnItemClickListener(new OnItemClickListener() {
+
+            @Override
+            public void onItemClick(AdapterView<?> arg0, View arg1,
+                                    int arg2, long arg3) {
+                // TODO Auto-generated method stub
+                titleTextView = (TextView) arg1
+                        .findViewById(android.R.id.text1);
+                urlTextView = (TextView) arg1
+                        .findViewById(android.R.id.text2);
+                title = titleTextView.getText().toString();
+                url = urlTextView.getText().toString();
+                String api = playLink + url;
+                Toast.makeText(LinkListActivity.this, "前往videoPlayer打开视频",
+                        Toast.LENGTH_LONG).show();
+                Intent intent = new Intent(LinkListActivity.this, PlayActivity.class);
+                intent.putExtra("url", api);
+                intent.putExtra("title", title);
+                startActivity(intent);
+
+            }
+        });
+    }
+
     private com.viewpagerindicator.TabPageIndicator indicator;
     //  private PagerTabStrip idtab;
     private ViewPager idviewpager;
@@ -343,7 +337,7 @@ public class LinkListActivity extends BaseActivity {
         tab.setTabIndicatorColor(Color.parseColor("#FFFF00"));*/
         indicator.setBackgroundColor(Color.parseColor("#C7EA2D"));
 
-        // ΪviewList����������
+        // viewList
         myPagerAdapter = new MyPagerAdapter(viewList, titleList);
         viewPager.setAdapter(myPagerAdapter);
         indicator.setViewPager(viewPager);
@@ -354,12 +348,10 @@ public class LinkListActivity extends BaseActivity {
         progressDialog.setCancelable(false);
         progressDialog.show();
 
-        // ������������߳�
         MyThread myThread = new MyThread(filmName, handler, progressDialog, 0);
         Thread netThread = new Thread(myThread);
         netThread.start();
 
-        // ����tab�л�
         viewPager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
 
             @Override
@@ -405,7 +397,7 @@ public class LinkListActivity extends BaseActivity {
                             rightButton.setText("换源");
                             rightButton.setOnClickListener(new Listener());
                             myThread = new MyThread(filmName, handler,
-                                    progressDialog, R.id.list_view_leshi);
+                                    progressDialog, R.id.list_view_tencent);
                             netThread = new Thread(myThread);
                             netThread.start();
                             break;
@@ -414,6 +406,14 @@ public class LinkListActivity extends BaseActivity {
                             rightButton.setOnClickListener(new Listener());
                             myThread = new MyThread(filmName, handler,
                                     progressDialog, R.id.list_view_mangguo);
+                            netThread = new Thread(myThread);
+                            netThread.start();
+                            break;
+                        case 5:
+                            rightButton.setText("换源");
+                            rightButton.setOnClickListener(new Listener());
+                            myThread = new MyThread(filmName, handler,
+                                    progressDialog, R.id.list_view_leshi);
                             netThread = new Thread(myThread);
                             netThread.start();
                             break;
@@ -442,29 +442,37 @@ public class LinkListActivity extends BaseActivity {
             case 1:
                 if (data != null) {
                     int radioId = data.getIntExtra("resource", requestCode);
+
+                    SharedPreferences.Editor editor = this.getSharedPreferences("playlink", MODE_PRIVATE).edit();
+                    editor.putInt("playlink", radioId);
+                    editor.apply();
+
                     switch (radioId) {
                         case R.id.radio1:
-                            playLink = "http://aikan-tv.com/?url=";
+                            playLink = ""https://www.jqaaa.com/jq3/?url=http://www.iqiyi.com/v_19rrifh28s.html?vfm=2008_aldbd;//"http://jqaaa.com/jx.php?url=";
                             break;
                         case R.id.radio2:
-                            playLink = "http://jiexi.92fz.cn/player/vip.php?url=";
+                            playLink = "http://y.mt2t.com/lines?url=";
                             break;
                         case R.id.radio3:
                             playLink = "http://api.baiyug.cn/vip/index.php?url=";
                             break;
                         case R.id.radio4:
-                            playLink = "http://api.nepian.com/ckparse/?url=";
+                            playLink = "http://api.xfsub.com/index.php?url=";
                             break;
                         case R.id.radio5:
-                            playLink = "http://www.wmxz.wang/video.php?url=";
+                            playLink = "https://api.flvsp.com/?url=";
                             break;
                         case R.id.radio6:
-                            playLink = "http://www.yydy8.com/Common/?url=";
+                            playLink = "http://www.tutule4d.com/djx/index.php?url=";
                             break;
 
-                        default:
-                            playLink = "https://api.47ks.com/webcloud/?v=";
+                        case R.id.radio7:
+                            playLink = "http://www.wmxz.wang/video.php?url=";
                             break;
+                        default:
+                            break;
+
                     }
                     break;
                 }

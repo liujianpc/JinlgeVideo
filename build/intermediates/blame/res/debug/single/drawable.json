@@ -1,10 +1,150 @@
 [
     {
-        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\text_color_selector.xml",
-        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\drawable\\text_color_selector.xml"
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\jz_click_back_selector.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable\\jz_click_back_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\jz_title_bg.9.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable\\jz_title_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\jz_click_share_selector.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable\\jz_click_share_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\jz_click_pause_selector.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable\\jz_click_pause_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\jz_click_back_tiny_selector.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable\\jz_click_back_tiny_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\jz_bottom_seek_thumb.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable\\jz_bottom_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\jz_bottom_bg.9.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable\\jz_bottom_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
     },
     {
         "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
         "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\jz_volume_progress_bg.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable\\jz_volume_progress_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\jz_seek_thumb_pressed.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable\\jz_seek_thumb_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\jz_dialog_progress_bg.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable\\jz_dialog_progress_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\jz_dialog_progress.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable\\jz_dialog_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\jz_loading.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable\\jz_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\retry_bg.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable\\retry_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\jz_seek_thumb_normal.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable\\jz_seek_thumb_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\jz_click_play_selector.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable\\jz_click_play_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\text_color_selector.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\drawable\\text_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\jz_bottom_seek_progress.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable\\jz_bottom_seek_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\jz_bottom_progress.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable\\jz_bottom_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\jz_click_replay_selector.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable\\jz_click_replay_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\7c33c1ed341f20b4ecde84a67165628856e57ac2\\output\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
     }
 ]

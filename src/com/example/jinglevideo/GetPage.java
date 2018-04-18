@@ -6,7 +6,6 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
-import java.net.URLDecoder;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -100,7 +99,7 @@ public class GetPage {
         List<Map<String, String>> linkList = new ArrayList<>();
 
         Document document = Jsoup.connect(
-                "http://www.baocaibt.com/search/" + filmName).get();
+                "http://www.baocaibt.net/search/" + filmName).get();
 
         Elements links = document.select("a[href^='/hash']");
         for (Element element : links) {
@@ -110,10 +109,7 @@ public class GetPage {
                 //int indexEnd = hrefString.lastIndexOf(".");
                 String link = hrefString.substring(indexBegin + 1);
                 Map<String, String> map = new HashMap<String, String>();
-               /* String script = element.child(0).dataNodes().get(0).getWholeData();
-                int index = script.lastIndexOf(")") - 2;
-                String titleTmp = script.substring(35, index).replace("\"+\"", "");
-                String title = URLDecoder.decode(titleTmp, "UTF-8").replaceAll("<b>", "").replaceAll("</b>", "");*/
+
                 String title = element.attr("title");
                 map.put("title", title);
                 map.put("url", "magnet:?xt=urn:btih:" + link);
@@ -124,4 +120,25 @@ public class GetPage {
         return linkList;
     }
 
+    public List<Map<String, String>> get_tencentLinks() throws IOException {
+        List<Map<String, String>> linkList = new ArrayList<>();
+
+        Document document = Jsoup.connect(
+                "https://v.qq.com/x/search/?q=" + filmName).get();
+
+        Elements links = document.select("div._infos");
+        for (Element element : links) {
+            Element child = element.child(0);
+            Element grandChild = child.child(0);
+            Element greatGrandChild = grandChild.child(0);
+            String link = grandChild.absUrl("href");
+            String title = greatGrandChild.attr("alt");
+            Map<String, String> map = new HashMap<String, String>();
+            map.put("title", title);
+            map.put("url", link);
+            linkList.add(map);
+        }
+        return linkList;
+
+    }
 }

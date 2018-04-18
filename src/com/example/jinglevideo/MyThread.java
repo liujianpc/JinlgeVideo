@@ -59,16 +59,16 @@ public class MyThread implements Runnable {
 
                 } catch (IOException e) {
                     // TODO: handle exception
-                    Log.e("exception", "����ҳ�����ݴ����������");
+                    Log.e("exception", "IO错误");
                     message.what = 2;
                     handler.sendMessage(message);
 
                 }
 
                 break;
-            case R.id.list_view_leshi:
+            case R.id.list_view_tencent:
                 try {
-                    linkList = getPage.get_leshiLinks();
+                    linkList = getPage.get_tencentLinks();
 
                     message.what = 1;
                     message.arg1 = id;
@@ -77,7 +77,7 @@ public class MyThread implements Runnable {
 
                 } catch (IOException e) {
                     // TODO: handle exception
-                    Log.e("exception", "����ҳ�����ݴ����������");
+                    Log.e("exception", "IO异常");
                     message.what = 2;
                     handler.sendMessage(message);
                 }
@@ -93,7 +93,7 @@ public class MyThread implements Runnable {
                     handler.sendMessage(message);
                 } catch (IOException e) {
                     // TODO: handle exception
-                    Log.e("exception", "����ҳ�����ݴ����������");
+                    Log.e("exception", "IO异常");
                     message.what = 2;
                     handler.sendMessage(message);
                 }
@@ -107,11 +107,26 @@ public class MyThread implements Runnable {
                     handler.sendMessage(message);
                 } catch (IOException e) {
                     // TODO Auto-generated catch block
-                    Log.e("exception", "����ҳ�����ݴ����������");
+                    Log.e("exception", "IO异常");
                     message.what = 2;
                     handler.sendMessage(message);
                 }
                 break;
+            case R.id.list_view_leshi:
+                try {
+                    linkList = getPage.get_leshiLinks();
+
+                    message.what = 1;
+                    message.arg1 = id;
+                    message.obj = linkList;
+                    handler.sendMessage(message);
+
+                } catch (IOException e) {
+                    // TODO: handle exception
+                    Log.e("exception", "IO异常");
+                    message.what = 2;
+                    handler.sendMessage(message);
+                }
 
             default:
                 break;

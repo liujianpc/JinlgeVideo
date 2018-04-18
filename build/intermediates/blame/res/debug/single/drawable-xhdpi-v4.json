@@ -1,7 +1,63 @@
 [
     {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_backward_icon.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_backward_icon.png"
+    },
+    {
         "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png",
         "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_battery_level_10.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_battery_level_10.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_pause_pressed.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_pause_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_back_tiny_normal.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_back_tiny_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_play_pressed.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_play_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_battery_level_30.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_battery_level_30.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_enlarge.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_enlarge.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_loading_bg.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_loading_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_battery_level_50.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_battery_level_50.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_share_pressed.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_share_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_back_normal.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_back_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_pause_normal.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_pause_normal.png"
     },
     {
         "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_holo.9.png",
@@ -12,12 +68,40 @@
         "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
-        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_back_pressed.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_back_pressed.png"
     },
     {
-        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
-        "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\library\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_close_volume.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_close_volume.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_shrink.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_shrink.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_battery_level_70.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_battery_level_70.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_restart_normal.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_restart_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_volume_icon.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_volume_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_brightness_video.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_brightness_video.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_share_normal.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_share_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_clarity_popwindow_bg.9.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_clarity_popwindow_bg.9.png"
     },
     {
         "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png",
@@ -26,5 +110,33 @@
     {
         "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_btn.xml",
         "source": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\res\\drawable-xhdpi\\search_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_battery_level_100.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_battery_level_100.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_add_volume.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_add_volume.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_back_tiny_pressed.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_back_tiny_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_battery_level_90.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_battery_level_90.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_restart_pressed.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_restart_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_play_normal.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_play_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\XP-PC-XXX\\StudioProjects\\JinlgeVideo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jz_forward_icon.png",
+        "source": "C:\\Users\\XP-PC-XXX\\.android\\build-cache\\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\\output\\res\\drawable-xhdpi-v4\\jz_forward_icon.png"
     }
 ]

@@ -12,6 +12,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\XP-PC-XXX\.android\build-cache\7c33c1ed341f20b4ecde84a67165628856e57ac2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\XP-PC-XXX\StudioProjects\JinlgeVideo\build\intermediates\pre-dexed\debug\classes_ea362a5b1913953c3fdf545f0a97ee0c4eadc16b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\XP-PC-XXX\.android\build-cache\08b5c0d95af8ccbe46dd271accaf38a968c55127\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -63,6 +72,15 @@
         revision="25.0.3"
         sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
         <dex dex="C:\Users\XP-PC-XXX\StudioProjects\JinlgeVideo\build\intermediates\pre-dexed\debug\classes_5e57daff9d39be0d300c43afdab21d78c28dbd0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XP-PC-XXX\.android\build-cache\29d740f5b09fb77dd25f8b5a5c9cff461a4bdf0a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ecc959ced49f75ecbcb6ede4d17e9ecc10fc4c9c">
+        <dex dex="C:\Users\XP-PC-XXX\StudioProjects\JinlgeVideo\build\intermediates\pre-dexed\debug\classes_1da97f14a879234f0f84bf11d736f29d83d4270f.jar" />
     </item>
     <item
         is-multidex="false"

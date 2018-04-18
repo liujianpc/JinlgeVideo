@@ -2,6 +2,7 @@ package com.example.jinglevideo;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -18,6 +19,9 @@ public class OptionActivity extends Activity {
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_option);
         final RadioGroup radioGroup = (RadioGroup) findViewById(R.id.radioGroup);
+        SharedPreferences sharedPreferences = this.getSharedPreferences("playlink", MODE_PRIVATE);
+        int index = sharedPreferences.getInt("playlink", 0);
+        radioGroup.check(index);
         radioGroup.setOnCheckedChangeListener(new OnCheckedChangeListener() {
 
             @Override
@@ -27,7 +31,7 @@ public class OptionActivity extends Activity {
                 RadioButton radioButton = (RadioButton) findViewById(radioButtonId);
                 radioGroup.check(radioButton.getId());
                 /*
-				 * if (!radioButton.isChecked()) { radioButton.setChecked(true);
+                 * if (!radioButton.isChecked()) { radioButton.setChecked(true);
 				 * }
 				 */
                 Intent intent = new Intent();
